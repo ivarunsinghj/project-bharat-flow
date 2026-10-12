@@ -1,0 +1,36 @@
+product_id,product_name,category,sub_category,unit_cost_inr,mrp_inr,holding_cost_rate_annual,ordering_cost_inr,min_order_qty,shelf_life_days,is_perishable,primary_supplier_id
+SKU-STP-001,Aashirvaad Shudh Chakki Atta 10kg,Packaged Food & Staples,Atta & Flours,410.0,485.0,0.18,250.0,50,120,False,SUP-001
+SKU-STP-002,Fortune Sunlite Refined Sunflower Oil 1L,Packaged Food & Staples,Edible Oils,125.0,155.0,0.18,180.0,40,270,False,SUP-007
+SKU-STP-003,Tata Salt Vacuum Evaporated Iodized 1kg,Packaged Food & Staples,Spices & Salt,21.0,28.0,0.15,120.0,100,720,False,SUP-006
+SKU-STP-004,India Gate Basmati Rice Rozzana 5kg,Packaged Food & Staples,Rice & Grains,360.0,445.0,0.18,220.0,30,365,False,SUP-001
+SKU-STP-005,Maggi 2-Minute Masala Noodles 280g (Pack of 4),Packaged Food & Staples,Instant Noodles,50.0,60.0,0.18,140.0,60,270,False,SUP-001
+SKU-STP-006,Catch Turmeric Powder 500g,Packaged Food & Staples,Spices & Salt,110.0,145.0,0.16,110.0,50,365,False,SUP-003
+SKU-STP-007,Organic Tattva Unpolished Toor Dal 1kg,Packaged Food & Staples,Pulses & Dals,145.0,185.0,0.18,150.0,40,240,False,SUP-001
+SKU-PHM-001,PMBJP Jan Aushadhi Paracetamol 650mg (10 Tabs),Essential Pharma & OTC,Antipyretics,6.5,12.0,0.22,90.0,200,730,False,SUP-005
+SKU-PHM-002,PMBJP Jan Aushadhi Metformin 500mg (10 Tabs),Essential Pharma & OTC,Antidiabetic,8.0,16.0,0.22,95.0,200,730,False,SUP-005
+SKU-PHM-003,Electral WHO-Formula ORS Powder 21.8g Sachet,Essential Pharma & OTC,Rehydration,16.0,22.5,0.2,80.0,150,540,False,SUP-012
+SKU-PHM-004,PMBJP Jan Aushadhi Cetirizine 10mg (10 Tabs),Essential Pharma & OTC,Antiallergic,4.5,9.0,0.22,85.0,200,730,False,SUP-005
+SKU-PHM-005,Dettol Antiseptic Liquid 250ml,Essential Pharma & OTC,First Aid,120.0,152.0,0.18,130.0,50,1095,False,SUP-002
+SKU-PHM-006,PMBJP Digital Flexible Thermometer,Essential Pharma & OTC,Medical Devices,95.0,150.0,0.2,160.0,30,1825,False,SUP-005
+SKU-PHM-007,Volini Joint & Muscle Pain Relief Gel 50g,Essential Pharma & OTC,Pain Relief,115.0,145.0,0.2,120.0,40,730,False,SUP-012
+SKU-HPC-001,Surf Excel Easy Wash Detergent Powder 1kg,Personal & Home Care,Laundry Care,118.0,145.0,0.16,180.0,60,730,False,SUP-002
+SKU-HPC-002,Vim Dishwash Gel Lemon 500ml,Personal & Home Care,Dishwashing,88.0,115.0,0.16,140.0,50,730,False,SUP-002
+SKU-HPC-003,Lifebuoy Total Germ Protection Soap 125g (Pack of 4),Personal & Home Care,Soaps & Body Wash,110.0,140.0,0.16,150.0,50,730,False,SUP-002
+SKU-HPC-004,Dabur Red Ayurvedic Toothpaste 300g,Personal & Home Care,Oral Care,112.0,142.0,0.17,130.0,50,540,False,SUP-003
+SKU-HPC-005,Parachute 100% Pure Coconut Oil 500ml,Personal & Home Care,Hair Care,155.0,195.0,0.16,160.0,40,540,False,SUP-003
+SKU-HPC-006,Lizol Disinfectant Floor Cleaner Citrus 1L,Personal & Home Care,Surface Cleaners,168.0,215.0,0.16,170.0,30,730,False,SUP-002
+SKU-HPC-007,Head & Shoulders Anti-Dandruff Shampoo 340ml,Personal & Home Care,Hair Care,240.0,310.0,0.18,180.0,30,730,False,SUP-002
+SKU-PER-001,Amul Taaza Homogenised Toned Milk 1L Tetra,Dairy & Perishables,Milk,60.0,72.0,0.25,120.0,80,90,True,SUP-004
+SKU-PER-002,Mother Dairy Classic Malai Paneer 200g,Dairy & Perishables,Dairy Essentials,82.0,98.0,0.28,110.0,60,30,True,SUP-008
+SKU-PER-003,Nandini Fresh Thick Curd 500g Pouch,Dairy & Perishables,Dairy Essentials,28.0,35.0,0.28,100.0,80,15,True,SUP-009
+SKU-PER-004,Epigamia Natural Greek Yogurt 90g Cup,Dairy & Perishables,Specialty Dairy,42.0,55.0,0.3,120.0,50,25,True,SUP-004
+SKU-PER-005,Farm Fresh Hybrid Salad Tomatoes 1kg,Dairy & Perishables,Fresh Vegetables,28.0,42.0,0.35,90.0,100,7,True,SUP-008
+SKU-PER-006,Fresh Nashik Grade-A Red Onions 2kg,Dairy & Perishables,Fresh Vegetables,52.0,74.0,0.32,100.0,80,21,True,SUP-008
+SKU-PER-007,Farm Fresh Pahadi Potatoes 2kg Net Bag,Dairy & Perishables,Fresh Vegetables,44.0,62.0,0.3,90.0,80,30,True,SUP-008
+SKU-SNK-001,Tata Tea Premium Desh Ki Chai 500g,Beverages & Snacks,Tea & Infusions,195.0,250.0,0.16,170.0,50,365,False,SUP-006
+SKU-SNK-002,Nescafe Classic 100% Pure Instant Coffee 50g,Beverages & Snacks,Coffee,145.0,185.0,0.18,150.0,40,540,False,SUP-001
+SKU-SNK-003,Haldirams Nagpur Aloo Bhujia Namkeen 400g,Beverages & Snacks,Namkeen & Snacks,92.0,120.0,0.18,140.0,60,180,False,SUP-010
+SKU-SNK-004,Britannia Good Day Butter Cookies 200g,Beverages & Snacks,Biscuits & Cookies,36.0,45.0,0.18,110.0,80,180,False,SUP-011
+SKU-SNK-005,Real Fruit Power Mixed Fruit Juice 1L,Beverages & Snacks,Juices & Drinks,98.0,130.0,0.2,150.0,50,270,False,SUP-003
+SKU-SNK-006,Paper Boat Aamras Alphonso Mango 250ml,Beverages & Snacks,Juices & Drinks,28.0,38.0,0.2,120.0,60,180,False,SUP-006
+SKU-SNK-007,Cadbury Bournvita Chocolate Health Drink 500g,Beverages & Snacks,Health Drinks,195.0,245.0,0.16,170.0,40,365,False,SUP-001

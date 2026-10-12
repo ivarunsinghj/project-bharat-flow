@@ -1,0 +1,13 @@
+supplier_id,supplier_name,city,state,zone,reliability_score,contract_lead_time_days,lead_time_std_dev
+SUP-001,ITC Limited (Foods Division),Kolkata,West Bengal,East,0.94,4,1.2
+SUP-002,Hindustan Unilever Limited (HUL),Mumbai,Maharashtra,West,0.96,3,0.8
+SUP-003,Dabur India Limited,Ghaziabad,Uttar Pradesh,North,0.91,5,1.5
+SUP-004,Gujarat Coop Milk Marketing Fed (Amul),Anand,Gujarat,West,0.98,2,0.5
+SUP-005,Bureau of Pharma PSUs of India (BPPI / PMBJP),New Delhi,Delhi,North,0.88,7,2.4
+SUP-006,Tata Consumer Products Ltd,Bengaluru,Karnataka,South,0.95,4,1.1
+SUP-007,Adani Wilmar Limited,Ahmedabad,Gujarat,West,0.92,5,1.4
+SUP-008,Mother Dairy Fruit & Vegetable Pvt Ltd,Noida,Uttar Pradesh,North,0.97,2,0.6
+SUP-009,Karnataka Milk Federation (Nandini),Bengaluru,Karnataka,South,0.96,2,0.5
+SUP-010,Haldiram Snacks Pvt Ltd,Nagpur,Maharashtra,West,0.93,4,1.0
+SUP-011,Britannia Industries Ltd,Bengaluru,Karnataka,South,0.95,3,0.9
+SUP-012,Mankind Pharma Limited,New Delhi,Delhi,North,0.9,6,1.8

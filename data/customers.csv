@@ -1,0 +1,1201 @@
+customer_id,customer_name,city,state,tier,zone,signup_date,customer_type,preferred_payment_mode,buyer_app_channel
+CUST-0001,Ayaan Sharma,Darbhanga,Bihar,Tier-3,East,2025-02-18,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0002,Isha Patel,Bengaluru,Karnataka,Tier-1,South,2024-11-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0003,Manoj Gupta,Guwahati,Assam,Tier-2,North-East,2025-05-05,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0004,Aditya Sharma,Mumbai,Maharashtra,Tier-1,West,2025-01-20,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0005,Pari Mishra,Guwahati,Assam,Tier-2,North-East,2024-10-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0006,Sanjay Nair,Darbhanga,Bihar,Tier-3,East,2025-08-29,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0007,Manoj Das,Kolkata,West Bengal,Tier-1,East,2025-05-18,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0008,Sunil Shah,Warangal,Telangana,Tier-3,South,2024-10-04,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0009,Ananya Deshmukh,Patna,Bihar,Tier-2,East,2025-03-24,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0010,Riya Bhatia,Kolkata,West Bengal,Tier-1,East,2025-03-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0011,Reyansh Gupta,Patna,Bihar,Tier-2,East,2024-11-19,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0012,Pooja Agrawal,Jaipur,Rajasthan,Tier-2,North,2025-08-06,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0013,Navya Menon,New Delhi,Delhi,Tier-1,North,2025-05-24,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0014,Manoj Malhotra,Silchar,Assam,Tier-3,North-East,2025-04-12,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0015,Sai Pandey,Lucknow,Uttar Pradesh,Tier-2,North,2025-08-18,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0016,Anita Bansal,Udupi,Karnataka,Tier-3,South,2025-04-04,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0017,Anil Nair,Darbhanga,Bihar,Tier-3,East,2024-11-05,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0018,Aditya Kulkarni,Kolkata,West Bengal,Tier-1,East,2025-02-26,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0019,Sai Agrawal,Kolkata,West Bengal,Tier-1,East,2024-11-21,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0020,Amit Shah,Bhopal,Madhya Pradesh,Tier-2,Central,2025-08-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0021,Priya Iyer,Jaipur,Rajasthan,Tier-2,North,2025-03-31,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0022,Aadhya Kulkarni,Lucknow,Uttar Pradesh,Tier-2,North,2025-09-25,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0023,Arjun Yadav,Jammu,Jammu & Kashmir,Tier-3,North,2024-12-27,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0024,Manoj Patil,Kolkata,West Bengal,Tier-1,East,2024-12-23,Healthcare Clinic / Dispensary,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0025,Kavita Choudhury,Lucknow,Uttar Pradesh,Tier-2,North,2025-08-24,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0026,Sanjay Patel,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-16,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0027,Vihaan Patel,Udupi,Karnataka,Tier-3,South,2024-10-17,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0028,Rahul Choudhury,Lucknow,Uttar Pradesh,Tier-2,North,2024-11-03,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0029,Aadhya Garg,Guwahati,Assam,Tier-2,North-East,2025-03-11,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0030,Aadhya Joshi,Bhopal,Madhya Pradesh,Tier-2,Central,2025-04-21,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0031,Kavita Bhatia,Lucknow,Uttar Pradesh,Tier-2,North,2024-12-11,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0032,Isha Patil,Coimbatore,Tamil Nadu,Tier-2,South,2025-07-03,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0033,Navya Patil,Guwahati,Assam,Tier-2,North-East,2025-05-08,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0034,Sunil Choudhury,Jaipur,Rajasthan,Tier-2,North,2025-01-21,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0035,Krishna Mishra,Bhopal,Madhya Pradesh,Tier-2,Central,2024-11-16,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0036,Vihaan Agrawal,Mumbai,Maharashtra,Tier-1,West,2024-12-18,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0037,Ananya Menon,Jammu,Jammu & Kashmir,Tier-3,North,2025-05-05,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0038,Rekha Gupta,Patna,Bihar,Tier-2,East,2025-04-14,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0039,Rekha Banerjee,Coimbatore,Tamil Nadu,Tier-2,South,2025-02-06,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0040,Sanjay Agrawal,New Delhi,Delhi,Tier-1,North,2025-09-14,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0041,Ayaan Kulkarni,Silchar,Assam,Tier-3,North-East,2025-07-02,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0042,Riya Pillai,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0043,Ayaan Mehta,Patna,Bihar,Tier-2,East,2024-12-20,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0044,Kavita Sharma,Darbhanga,Bihar,Tier-3,East,2025-02-12,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0045,Meena Pillai,Bengaluru,Karnataka,Tier-1,South,2025-06-17,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0046,Reyansh Agrawal,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-02,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0047,Meena Yadav,Kolkata,West Bengal,Tier-1,East,2024-12-18,Retail Consumer,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-0048,Priya Pillai,Bengaluru,Karnataka,Tier-1,South,2025-07-04,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0049,Geeta Garg,New Delhi,Delhi,Tier-1,North,2025-08-03,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0050,Rahul Chatterjee,New Delhi,Delhi,Tier-1,North,2024-11-27,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0051,Priya Bansal,Udupi,Karnataka,Tier-3,South,2025-03-07,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0052,Isha Verma,Kolkata,West Bengal,Tier-1,East,2025-07-18,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0053,Sai Gupta,Darbhanga,Bihar,Tier-3,East,2025-06-06,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0054,Arjun Pillai,Coimbatore,Tamil Nadu,Tier-2,South,2024-12-04,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0055,Krishna Kulkarni,Bhopal,Madhya Pradesh,Tier-2,Central,2025-07-09,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0056,Ananya Shah,Coimbatore,Tamil Nadu,Tier-2,South,2025-08-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0057,Sunita Nair,Silchar,Assam,Tier-3,North-East,2025-07-04,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0058,Saanvi Deshmukh,Lucknow,Uttar Pradesh,Tier-2,North,2025-04-23,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0059,Priya Banerjee,Silchar,Assam,Tier-3,North-East,2025-06-22,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0060,Deepak Malhotra,Kolkata,West Bengal,Tier-1,East,2025-01-24,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0061,Arjun Reddy,New Delhi,Delhi,Tier-1,North,2025-07-29,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0062,Sanjay Patel,Guwahati,Assam,Tier-2,North-East,2025-01-21,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0063,Aarav Gupta,Darbhanga,Bihar,Tier-3,East,2025-08-20,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0064,Vihaan Patel,Mumbai,Maharashtra,Tier-1,West,2024-10-17,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0065,Rohan Gupta,Coimbatore,Tamil Nadu,Tier-2,South,2025-01-30,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0066,Riya Kulkarni,Bhopal,Madhya Pradesh,Tier-2,Central,2025-01-18,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0067,Manoj Bhatia,Darbhanga,Bihar,Tier-3,East,2025-07-20,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0068,Anil Chatterjee,Kolkata,West Bengal,Tier-1,East,2025-05-31,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0069,Vikram Nair,Mumbai,Maharashtra,Tier-1,West,2024-11-19,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0070,Sunita Rao,Patna,Bihar,Tier-2,East,2025-04-29,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0071,Kavita Agrawal,Darbhanga,Bihar,Tier-3,East,2024-10-28,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0072,Reyansh Verma,Patna,Bihar,Tier-2,East,2025-03-23,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0073,Reyansh Patel,Kolkata,West Bengal,Tier-1,East,2025-01-06,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0074,Manoj Banerjee,Bengaluru,Karnataka,Tier-1,South,2025-05-05,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0075,Diya Shah,Bhopal,Madhya Pradesh,Tier-2,Central,2025-02-05,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0076,Arjun Banerjee,Warangal,Telangana,Tier-3,South,2025-07-09,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0077,Reyansh Verma,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-04,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Mystore
+CUST-0078,Aarav Gupta,Silchar,Assam,Tier-3,North-East,2025-01-30,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0079,Ananya Das,Bhopal,Madhya Pradesh,Tier-2,Central,2025-06-04,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0080,Aadhya Agrawal,Patna,Bihar,Tier-2,East,2024-10-31,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0081,Ananya Choudhury,New Delhi,Delhi,Tier-1,North,2025-04-18,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-0082,Navya Garg,Warangal,Telangana,Tier-3,South,2025-05-21,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0083,Myra Das,Darbhanga,Bihar,Tier-3,East,2025-07-12,Retail Consumer,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-0084,Suresh Bhatia,Kolkata,West Bengal,Tier-1,East,2025-03-01,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0085,Aadhya Verma,Guwahati,Assam,Tier-2,North-East,2025-07-05,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0086,Vihaan Patil,Jaipur,Rajasthan,Tier-2,North,2024-10-30,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0087,Vihaan Singh,Bhopal,Madhya Pradesh,Tier-2,Central,2025-06-15,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0088,Geeta Iyer,New Delhi,Delhi,Tier-1,North,2025-06-18,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0089,Sai Agrawal,Bengaluru,Karnataka,Tier-1,South,2024-11-05,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0090,Rekha Gupta,Jammu,Jammu & Kashmir,Tier-3,North,2025-01-29,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0091,Neha Malhotra,Silchar,Assam,Tier-3,North-East,2025-07-19,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0092,Isha Singh,Guwahati,Assam,Tier-2,North-East,2024-10-21,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0093,Anita Gupta,Patna,Bihar,Tier-2,East,2025-09-02,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0094,Sunil Singh,Coimbatore,Tamil Nadu,Tier-2,South,2025-03-11,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0095,Navya Nair,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-10,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0096,Isha Shah,Patna,Bihar,Tier-2,East,2024-12-07,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0097,Sneha Banerjee,Jaipur,Rajasthan,Tier-2,North,2024-11-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0098,Aarav Banerjee,Guwahati,Assam,Tier-2,North-East,2025-07-16,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0099,Reyansh Gupta,Coimbatore,Tamil Nadu,Tier-2,South,2025-01-18,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0100,Meena Shah,Bengaluru,Karnataka,Tier-1,South,2025-03-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0101,Arjun Bansal,Kolkata,West Bengal,Tier-1,East,2025-04-08,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0102,Myra Iyer,Bhopal,Madhya Pradesh,Tier-2,Central,2025-07-06,Retail Consumer,RuPay Debit,Direct Hyperlocal Web
+CUST-0103,Sneha Yadav,Warangal,Telangana,Tier-3,South,2025-08-31,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0104,Geeta Sharma,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-11,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0105,Sneha Garg,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-23,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0106,Krishna Shah,Mumbai,Maharashtra,Tier-1,West,2024-11-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0107,Sanjay Bhatia,Lucknow,Uttar Pradesh,Tier-2,North,2025-02-22,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0108,Rekha Nair,Darbhanga,Bihar,Tier-3,East,2025-03-25,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0109,Aadhya Kulkarni,Jammu,Jammu & Kashmir,Tier-3,North,2025-02-13,Healthcare Clinic / Dispensary,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0110,Meena Chatterjee,Lucknow,Uttar Pradesh,Tier-2,North,2024-10-27,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0111,Sai Joshi,Patna,Bihar,Tier-2,East,2025-02-19,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0112,Aditya Sharma,Jaipur,Rajasthan,Tier-2,North,2024-12-06,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0113,Navya Iyer,Darbhanga,Bihar,Tier-3,East,2025-05-15,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0114,Sanjay Deshmukh,Patna,Bihar,Tier-2,East,2025-07-15,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0115,Aarav Malhotra,Mumbai,Maharashtra,Tier-1,West,2025-09-19,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0116,Ishaan Pandey,New Delhi,Delhi,Tier-1,North,2025-04-08,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0117,Sunil Pandey,Bengaluru,Karnataka,Tier-1,South,2025-05-09,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0118,Krishna Verma,Lucknow,Uttar Pradesh,Tier-2,North,2025-04-05,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0119,Aditya Bansal,Jaipur,Rajasthan,Tier-2,North,2025-01-16,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0120,Isha Kulkarni,Mumbai,Maharashtra,Tier-1,West,2025-03-31,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0121,Sanjay Bansal,Udupi,Karnataka,Tier-3,South,2025-04-27,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0122,Anita Patil,Bengaluru,Karnataka,Tier-1,South,2025-01-30,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0123,Ananya Menon,Warangal,Telangana,Tier-3,South,2024-12-30,Healthcare Clinic / Dispensary,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0124,Vikram Sharma,Bengaluru,Karnataka,Tier-1,South,2025-03-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0125,Vikram Menon,Jammu,Jammu & Kashmir,Tier-3,North,2025-02-05,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0126,Riya Iyer,Warangal,Telangana,Tier-3,South,2025-09-25,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0127,Reyansh Choudhury,Udupi,Karnataka,Tier-3,South,2024-10-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0128,Rajesh Patel,Kolkata,West Bengal,Tier-1,East,2025-05-24,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0129,Pooja Mehta,Udupi,Karnataka,Tier-3,South,2025-01-25,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0130,Pari Sharma,Jammu,Jammu & Kashmir,Tier-3,North,2025-01-07,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0131,Neha Reddy,Lucknow,Uttar Pradesh,Tier-2,North,2024-11-05,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0132,Riya Rao,Jammu,Jammu & Kashmir,Tier-3,North,2025-06-18,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0133,Neha Kulkarni,Udupi,Karnataka,Tier-3,South,2025-07-02,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Mystore
+CUST-0134,Rohan Sharma,Mumbai,Maharashtra,Tier-1,West,2025-02-11,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0135,Diya Singh,Lucknow,Uttar Pradesh,Tier-2,North,2024-10-20,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0136,Reyansh Yadav,Patna,Bihar,Tier-2,East,2025-03-26,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0137,Rahul Das,Guwahati,Assam,Tier-2,North-East,2025-06-19,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0138,Ayaan Choudhury,Silchar,Assam,Tier-3,North-East,2025-07-23,Healthcare Clinic / Dispensary,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0139,Saanvi Shah,New Delhi,Delhi,Tier-1,North,2025-09-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0140,Sunita Sharma,Coimbatore,Tamil Nadu,Tier-2,South,2025-07-03,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0141,Saanvi Rao,Patna,Bihar,Tier-2,East,2024-11-05,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0142,Rohan Yadav,Jaipur,Rajasthan,Tier-2,North,2025-09-05,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0143,Ayaan Patil,Silchar,Assam,Tier-3,North-East,2025-03-03,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0144,Meena Mehta,Jammu,Jammu & Kashmir,Tier-3,North,2025-04-28,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0145,Rahul Choudhury,Darbhanga,Bihar,Tier-3,East,2025-03-01,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0146,Sanjay Bhatia,Kolkata,West Bengal,Tier-1,East,2025-05-04,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0147,Amit Kulkarni,Darbhanga,Bihar,Tier-3,East,2024-12-29,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0148,Anita Singh,Lucknow,Uttar Pradesh,Tier-2,North,2025-04-26,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0149,Sanjay Kumar,New Delhi,Delhi,Tier-1,North,2025-03-05,Retail Consumer,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-0150,Myra Nair,Patna,Bihar,Tier-2,East,2025-07-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0151,Rekha Joshi,Jaipur,Rajasthan,Tier-2,North,2025-05-27,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0152,Deepak Banerjee,Jammu,Jammu & Kashmir,Tier-3,North,2025-01-18,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0153,Meena Chatterjee,Warangal,Telangana,Tier-3,South,2024-12-26,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0154,Sai Mehta,Coimbatore,Tamil Nadu,Tier-2,South,2025-09-05,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0155,Anita Reddy,Mumbai,Maharashtra,Tier-1,West,2025-01-29,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0156,Sneha Patel,Warangal,Telangana,Tier-3,South,2025-01-10,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0157,Ishaan Sharma,New Delhi,Delhi,Tier-1,North,2025-02-03,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0158,Rajesh Yadav,Udupi,Karnataka,Tier-3,South,2024-11-07,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Mystore
+CUST-0159,Kavita Das,Silchar,Assam,Tier-3,North-East,2025-08-19,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0160,Anil Nair,Darbhanga,Bihar,Tier-3,East,2025-09-22,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0161,Amit Chatterjee,Patna,Bihar,Tier-2,East,2025-02-02,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0162,Ishaan Joshi,Darbhanga,Bihar,Tier-3,East,2024-10-03,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0163,Reyansh Pillai,Patna,Bihar,Tier-2,East,2025-01-21,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0164,Diya Menon,Darbhanga,Bihar,Tier-3,East,2025-06-23,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0165,Kavita Verma,Coimbatore,Tamil Nadu,Tier-2,South,2025-02-05,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0166,Ayaan Banerjee,Bengaluru,Karnataka,Tier-1,South,2025-05-26,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0167,Geeta Pandey,Guwahati,Assam,Tier-2,North-East,2025-03-12,Healthcare Clinic / Dispensary,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0168,Deepak Yadav,Udupi,Karnataka,Tier-3,South,2025-06-16,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0169,Sunita Kumar,Silchar,Assam,Tier-3,North-East,2025-07-08,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0170,Deepak Bansal,Bengaluru,Karnataka,Tier-1,South,2025-06-01,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0171,Deepak Shah,Warangal,Telangana,Tier-3,South,2025-02-04,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0172,Riya Pillai,Warangal,Telangana,Tier-3,South,2025-06-24,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0173,Suresh Joshi,Kolkata,West Bengal,Tier-1,East,2025-02-18,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-0174,Deepak Gupta,Darbhanga,Bihar,Tier-3,East,2025-02-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0175,Isha Shah,Jaipur,Rajasthan,Tier-2,North,2025-03-13,Healthcare Clinic / Dispensary,NetBanking,ONDC Buyer App - Mystore
+CUST-0176,Manoj Gupta,Bengaluru,Karnataka,Tier-1,South,2024-12-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0177,Pari Choudhury,Darbhanga,Bihar,Tier-3,East,2024-12-18,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0178,Aadhya Gupta,Patna,Bihar,Tier-2,East,2025-04-27,Healthcare Clinic / Dispensary,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0179,Rohan Pandey,Bhopal,Madhya Pradesh,Tier-2,Central,2025-05-01,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0180,Vihaan Nair,Udupi,Karnataka,Tier-3,South,2025-05-04,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0181,Amit Bansal,Warangal,Telangana,Tier-3,South,2025-07-27,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0182,Vivaan Agrawal,Silchar,Assam,Tier-3,North-East,2025-07-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0183,Amit Chatterjee,New Delhi,Delhi,Tier-1,North,2025-03-30,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0184,Sneha Pillai,Patna,Bihar,Tier-2,East,2025-05-03,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0185,Manoj Patil,Darbhanga,Bihar,Tier-3,East,2025-07-07,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0186,Rekha Bansal,Kolkata,West Bengal,Tier-1,East,2025-06-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0187,Pari Shah,Patna,Bihar,Tier-2,East,2025-06-06,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0188,Vivaan Choudhury,Jaipur,Rajasthan,Tier-2,North,2025-09-08,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0189,Neha Patil,Bengaluru,Karnataka,Tier-1,South,2025-05-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0190,Krishna Yadav,Coimbatore,Tamil Nadu,Tier-2,South,2024-10-14,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0191,Neha Singh,Guwahati,Assam,Tier-2,North-East,2025-09-05,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0192,Vivaan Gupta,Jammu,Jammu & Kashmir,Tier-3,North,2025-05-08,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-0193,Krishna Agrawal,Bhopal,Madhya Pradesh,Tier-2,Central,2025-01-02,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0194,Vihaan Shah,Patna,Bihar,Tier-2,East,2025-03-17,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0195,Aadhya Banerjee,Jaipur,Rajasthan,Tier-2,North,2025-03-22,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0196,Amit Shah,Warangal,Telangana,Tier-3,South,2025-05-04,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0197,Navya Kumar,Mumbai,Maharashtra,Tier-1,West,2025-05-29,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0198,Vivaan Patil,Coimbatore,Tamil Nadu,Tier-2,South,2024-10-27,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0199,Pooja Patel,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-05,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0200,Aditya Pillai,New Delhi,Delhi,Tier-1,North,2025-02-04,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0201,Saanvi Kumar,New Delhi,Delhi,Tier-1,North,2025-08-15,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0202,Ishaan Patel,Bengaluru,Karnataka,Tier-1,South,2025-05-31,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0203,Ayaan Singh,Kolkata,West Bengal,Tier-1,East,2025-05-27,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0204,Navya Pillai,Jaipur,Rajasthan,Tier-2,North,2024-12-25,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0205,Rekha Yadav,Darbhanga,Bihar,Tier-3,East,2024-11-28,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0206,Ananya Mehta,Mumbai,Maharashtra,Tier-1,West,2025-07-24,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0207,Vivaan Garg,Lucknow,Uttar Pradesh,Tier-2,North,2025-07-22,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0208,Amit Choudhury,Darbhanga,Bihar,Tier-3,East,2025-01-10,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0209,Arjun Singh,Darbhanga,Bihar,Tier-3,East,2025-08-18,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0210,Isha Malhotra,Darbhanga,Bihar,Tier-3,East,2025-03-04,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0211,Rekha Menon,Mumbai,Maharashtra,Tier-1,West,2025-07-17,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0212,Aditya Rao,Coimbatore,Tamil Nadu,Tier-2,South,2025-05-08,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0213,Priya Gupta,Coimbatore,Tamil Nadu,Tier-2,South,2025-08-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0214,Rohan Sharma,Udupi,Karnataka,Tier-3,South,2025-05-04,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0215,Suresh Malhotra,Patna,Bihar,Tier-2,East,2025-04-04,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0216,Kavita Deshmukh,Bengaluru,Karnataka,Tier-1,South,2025-05-11,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0217,Diya Patil,Coimbatore,Tamil Nadu,Tier-2,South,2025-08-30,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0218,Riya Yadav,Warangal,Telangana,Tier-3,South,2025-07-03,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0219,Rajesh Banerjee,Patna,Bihar,Tier-2,East,2025-07-31,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0220,Riya Reddy,Udupi,Karnataka,Tier-3,South,2025-02-03,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0221,Sai Shah,Silchar,Assam,Tier-3,North-East,2025-05-19,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0222,Isha Pillai,Bhopal,Madhya Pradesh,Tier-2,Central,2025-07-19,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0223,Anita Kulkarni,Patna,Bihar,Tier-2,East,2025-03-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0224,Vivaan Chatterjee,Udupi,Karnataka,Tier-3,South,2025-03-16,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0225,Diya Chatterjee,Kolkata,West Bengal,Tier-1,East,2025-03-31,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0226,Navya Reddy,Lucknow,Uttar Pradesh,Tier-2,North,2025-08-02,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0227,Riya Pandey,New Delhi,Delhi,Tier-1,North,2025-06-22,Healthcare Clinic / Dispensary,NetBanking,ONDC Buyer App - Mystore
+CUST-0228,Saanvi Gupta,Kolkata,West Bengal,Tier-1,East,2025-04-27,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0229,Suresh Pandey,Warangal,Telangana,Tier-3,South,2025-02-01,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0230,Rajesh Joshi,Darbhanga,Bihar,Tier-3,East,2025-06-09,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0231,Deepak Menon,New Delhi,Delhi,Tier-1,North,2024-11-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0232,Myra Patel,Patna,Bihar,Tier-2,East,2025-09-20,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0233,Isha Mehta,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-25,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0234,Priya Chatterjee,Coimbatore,Tamil Nadu,Tier-2,South,2025-06-29,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0235,Pooja Das,Darbhanga,Bihar,Tier-3,East,2025-07-09,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0236,Rohan Rao,Darbhanga,Bihar,Tier-3,East,2025-05-21,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Mystore
+CUST-0237,Riya Mehta,Lucknow,Uttar Pradesh,Tier-2,North,2025-01-27,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0238,Ayaan Patil,Kolkata,West Bengal,Tier-1,East,2025-03-11,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0239,Ayaan Patil,Coimbatore,Tamil Nadu,Tier-2,South,2025-09-19,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0240,Diya Nair,Kolkata,West Bengal,Tier-1,East,2025-06-05,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0241,Riya Patil,Guwahati,Assam,Tier-2,North-East,2025-06-26,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0242,Rekha Mehta,Mumbai,Maharashtra,Tier-1,West,2025-01-08,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0243,Myra Patel,Jaipur,Rajasthan,Tier-2,North,2024-12-31,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0244,Sneha Sharma,Darbhanga,Bihar,Tier-3,East,2025-07-01,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0245,Krishna Shah,New Delhi,Delhi,Tier-1,North,2024-10-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0246,Sanjay Mehta,Darbhanga,Bihar,Tier-3,East,2024-12-04,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Mystore
+CUST-0247,Suresh Malhotra,Udupi,Karnataka,Tier-3,South,2024-10-07,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0248,Anil Mehta,Bhopal,Madhya Pradesh,Tier-2,Central,2025-06-03,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0249,Deepak Reddy,Bengaluru,Karnataka,Tier-1,South,2024-10-27,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0250,Navya Agrawal,Bhopal,Madhya Pradesh,Tier-2,Central,2024-11-28,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0251,Arjun Choudhury,Bhopal,Madhya Pradesh,Tier-2,Central,2024-11-07,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0252,Anil Joshi,Jammu,Jammu & Kashmir,Tier-3,North,2024-10-28,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0253,Ishaan Bhatia,Warangal,Telangana,Tier-3,South,2025-07-16,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0254,Sneha Gupta,Kolkata,West Bengal,Tier-1,East,2024-11-30,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0255,Sanjay Pillai,Patna,Bihar,Tier-2,East,2025-08-07,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0256,Rekha Menon,Guwahati,Assam,Tier-2,North-East,2025-01-24,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0257,Geeta Choudhury,Bhopal,Madhya Pradesh,Tier-2,Central,2025-05-15,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0258,Sneha Agrawal,Guwahati,Assam,Tier-2,North-East,2025-05-08,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0259,Sneha Singh,Guwahati,Assam,Tier-2,North-East,2024-10-31,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0260,Anita Patil,Mumbai,Maharashtra,Tier-1,West,2025-01-15,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0261,Aadhya Shah,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-11,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0262,Ananya Patel,Bengaluru,Karnataka,Tier-1,South,2025-07-10,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0263,Arjun Iyer,New Delhi,Delhi,Tier-1,North,2025-04-28,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0264,Deepak Deshmukh,Guwahati,Assam,Tier-2,North-East,2025-05-29,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0265,Myra Verma,Kolkata,West Bengal,Tier-1,East,2025-02-25,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0266,Myra Deshmukh,Udupi,Karnataka,Tier-3,South,2025-05-21,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0267,Arjun Kulkarni,Kolkata,West Bengal,Tier-1,East,2025-02-13,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0268,Sunil Kulkarni,Warangal,Telangana,Tier-3,South,2025-01-10,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0269,Sunita Malhotra,Coimbatore,Tamil Nadu,Tier-2,South,2025-01-24,Retail Consumer,RuPay Debit,Direct Hyperlocal Web
+CUST-0270,Ishaan Garg,Lucknow,Uttar Pradesh,Tier-2,North,2024-12-12,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0271,Arjun Verma,Bengaluru,Karnataka,Tier-1,South,2025-03-07,Healthcare Clinic / Dispensary,NetBanking,ONDC Buyer App - Paytm
+CUST-0272,Rekha Patil,Udupi,Karnataka,Tier-3,South,2025-07-19,Micro-Enterprise / Kirana Reseller,NetBanking,ONDC Buyer App - Magicpin
+CUST-0273,Myra Banerjee,Mumbai,Maharashtra,Tier-1,West,2025-05-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0274,Sneha Deshmukh,Patna,Bihar,Tier-2,East,2025-02-17,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0275,Meena Pandey,Bhopal,Madhya Pradesh,Tier-2,Central,2025-05-13,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0276,Sai Yadav,New Delhi,Delhi,Tier-1,North,2025-05-10,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0277,Rahul Yadav,Lucknow,Uttar Pradesh,Tier-2,North,2024-10-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0278,Sai Patel,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0279,Sunil Sharma,Warangal,Telangana,Tier-3,South,2025-09-10,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0280,Riya Singh,New Delhi,Delhi,Tier-1,North,2024-12-29,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0281,Rajesh Mishra,Jammu,Jammu & Kashmir,Tier-3,North,2025-05-15,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0282,Riya Iyer,Guwahati,Assam,Tier-2,North-East,2025-05-12,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0283,Suresh Gupta,Bhopal,Madhya Pradesh,Tier-2,Central,2025-03-28,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0284,Vikram Reddy,Jaipur,Rajasthan,Tier-2,North,2025-09-09,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0285,Reyansh Agrawal,Bengaluru,Karnataka,Tier-1,South,2025-03-18,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0286,Vikram Deshmukh,Bhopal,Madhya Pradesh,Tier-2,Central,2025-02-25,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0287,Neha Kumar,Warangal,Telangana,Tier-3,South,2025-07-09,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0288,Aditya Banerjee,Mumbai,Maharashtra,Tier-1,West,2025-03-11,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0289,Navya Reddy,Mumbai,Maharashtra,Tier-1,West,2025-04-25,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0290,Meena Kumar,New Delhi,Delhi,Tier-1,North,2025-09-02,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-0291,Manoj Banerjee,Patna,Bihar,Tier-2,East,2024-10-28,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0292,Saanvi Mishra,Jaipur,Rajasthan,Tier-2,North,2025-08-15,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0293,Suresh Joshi,Bhopal,Madhya Pradesh,Tier-2,Central,2024-10-27,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0294,Aadhya Shah,Coimbatore,Tamil Nadu,Tier-2,South,2024-12-07,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0295,Myra Banerjee,Silchar,Assam,Tier-3,North-East,2025-09-23,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0296,Suresh Malhotra,New Delhi,Delhi,Tier-1,North,2025-08-19,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0297,Rekha Menon,Kolkata,West Bengal,Tier-1,East,2025-09-29,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0298,Ananya Mehta,Coimbatore,Tamil Nadu,Tier-2,South,2024-10-08,Micro-Enterprise / Kirana Reseller,NetBanking,ONDC Buyer App - Paytm
+CUST-0299,Sanjay Das,Mumbai,Maharashtra,Tier-1,West,2025-01-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0300,Ayaan Banerjee,Mumbai,Maharashtra,Tier-1,West,2025-08-28,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0301,Ishaan Chatterjee,Silchar,Assam,Tier-3,North-East,2025-02-27,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0302,Meena Deshmukh,Lucknow,Uttar Pradesh,Tier-2,North,2025-05-01,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0303,Rajesh Chatterjee,Kolkata,West Bengal,Tier-1,East,2025-05-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0304,Sanjay Bhatia,Patna,Bihar,Tier-2,East,2025-01-06,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0305,Rekha Mishra,Darbhanga,Bihar,Tier-3,East,2024-12-09,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0306,Arjun Shah,Warangal,Telangana,Tier-3,South,2025-05-01,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0307,Rohan Garg,Warangal,Telangana,Tier-3,South,2025-06-17,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0308,Riya Kumar,New Delhi,Delhi,Tier-1,North,2025-02-22,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0309,Sneha Kumar,Guwahati,Assam,Tier-2,North-East,2025-07-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0310,Suresh Agrawal,Bengaluru,Karnataka,Tier-1,South,2025-05-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0311,Manoj Chatterjee,Jaipur,Rajasthan,Tier-2,North,2025-03-20,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-0312,Sanjay Pillai,Coimbatore,Tamil Nadu,Tier-2,South,2025-04-12,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0313,Kavita Garg,Jaipur,Rajasthan,Tier-2,North,2025-01-05,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0314,Isha Singh,Patna,Bihar,Tier-2,East,2025-01-28,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0315,Vikram Verma,Jaipur,Rajasthan,Tier-2,North,2025-05-31,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0316,Amit Choudhury,Jammu,Jammu & Kashmir,Tier-3,North,2025-08-30,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0317,Ishaan Chatterjee,New Delhi,Delhi,Tier-1,North,2024-12-04,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0318,Meena Singh,Jaipur,Rajasthan,Tier-2,North,2024-11-21,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0319,Deepak Malhotra,Coimbatore,Tamil Nadu,Tier-2,South,2025-05-22,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0320,Aarav Patil,Bengaluru,Karnataka,Tier-1,South,2025-04-28,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0321,Ishaan Gupta,Bhopal,Madhya Pradesh,Tier-2,Central,2025-02-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0322,Rohan Yadav,Darbhanga,Bihar,Tier-3,East,2025-04-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0323,Sai Agrawal,Jaipur,Rajasthan,Tier-2,North,2025-09-11,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0324,Manoj Choudhury,Jaipur,Rajasthan,Tier-2,North,2025-08-17,Retail Consumer,RuPay Debit,Direct Hyperlocal Web
+CUST-0325,Suresh Agrawal,Coimbatore,Tamil Nadu,Tier-2,South,2024-10-19,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0326,Anita Gupta,Kolkata,West Bengal,Tier-1,East,2025-08-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0327,Myra Patel,Darbhanga,Bihar,Tier-3,East,2024-11-16,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0328,Sunita Malhotra,Warangal,Telangana,Tier-3,South,2025-08-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0329,Reyansh Banerjee,Bengaluru,Karnataka,Tier-1,South,2025-09-21,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0330,Sneha Bansal,New Delhi,Delhi,Tier-1,North,2024-10-24,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0331,Rahul Menon,New Delhi,Delhi,Tier-1,North,2025-02-28,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0332,Pooja Rao,Patna,Bihar,Tier-2,East,2024-12-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0333,Isha Mishra,Patna,Bihar,Tier-2,East,2025-07-17,Micro-Enterprise / Kirana Reseller,UPI,Direct Hyperlocal Web
+CUST-0334,Diya Iyer,Bengaluru,Karnataka,Tier-1,South,2024-11-10,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0335,Anita Agrawal,Patna,Bihar,Tier-2,East,2025-08-14,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0336,Isha Chatterjee,Silchar,Assam,Tier-3,North-East,2025-07-26,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0337,Ishaan Patel,Bhopal,Madhya Pradesh,Tier-2,Central,2025-08-23,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0338,Navya Banerjee,Lucknow,Uttar Pradesh,Tier-2,North,2025-09-07,Healthcare Clinic / Dispensary,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0339,Aarav Bansal,Warangal,Telangana,Tier-3,South,2025-05-27,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0340,Myra Kulkarni,Coimbatore,Tamil Nadu,Tier-2,South,2024-12-20,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0341,Arjun Banerjee,Jaipur,Rajasthan,Tier-2,North,2025-07-28,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0342,Sneha Joshi,Patna,Bihar,Tier-2,East,2025-09-19,Healthcare Clinic / Dispensary,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0343,Navya Banerjee,Udupi,Karnataka,Tier-3,South,2025-03-04,Micro-Enterprise / Kirana Reseller,NetBanking,ONDC Buyer App - Paytm
+CUST-0344,Saanvi Choudhury,Udupi,Karnataka,Tier-3,South,2025-06-05,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0345,Reyansh Patel,Patna,Bihar,Tier-2,East,2025-07-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0346,Pooja Singh,Lucknow,Uttar Pradesh,Tier-2,North,2025-09-24,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0347,Myra Sharma,Udupi,Karnataka,Tier-3,South,2025-09-03,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0348,Neha Shah,New Delhi,Delhi,Tier-1,North,2025-07-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0349,Vihaan Garg,Guwahati,Assam,Tier-2,North-East,2025-06-12,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0350,Myra Pillai,Warangal,Telangana,Tier-3,South,2025-01-26,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0351,Rekha Menon,Jaipur,Rajasthan,Tier-2,North,2025-01-21,Micro-Enterprise / Kirana Reseller,UPI,Direct Hyperlocal Web
+CUST-0352,Saanvi Yadav,Lucknow,Uttar Pradesh,Tier-2,North,2025-09-13,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0353,Krishna Joshi,Mumbai,Maharashtra,Tier-1,West,2025-08-18,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0354,Aditya Mehta,Warangal,Telangana,Tier-3,South,2025-05-14,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-0355,Aditya Singh,Jaipur,Rajasthan,Tier-2,North,2024-12-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0356,Sai Garg,Lucknow,Uttar Pradesh,Tier-2,North,2025-03-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0357,Vikram Iyer,Kolkata,West Bengal,Tier-1,East,2024-12-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0358,Manoj Bansal,Jaipur,Rajasthan,Tier-2,North,2025-06-29,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0359,Meena Garg,Lucknow,Uttar Pradesh,Tier-2,North,2024-12-24,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0360,Navya Garg,Udupi,Karnataka,Tier-3,South,2025-06-04,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0361,Myra Patil,Udupi,Karnataka,Tier-3,South,2025-03-23,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0362,Ayaan Banerjee,Mumbai,Maharashtra,Tier-1,West,2024-12-12,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0363,Pari Agrawal,Jammu,Jammu & Kashmir,Tier-3,North,2025-09-11,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0364,Neha Agrawal,Warangal,Telangana,Tier-3,South,2025-07-13,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0365,Priya Gupta,Warangal,Telangana,Tier-3,South,2025-04-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0366,Aarav Shah,Coimbatore,Tamil Nadu,Tier-2,South,2024-12-03,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0367,Kavita Rao,Jammu,Jammu & Kashmir,Tier-3,North,2025-09-10,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0368,Navya Singh,Patna,Bihar,Tier-2,East,2025-08-23,Healthcare Clinic / Dispensary,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-0369,Priya Malhotra,Jammu,Jammu & Kashmir,Tier-3,North,2025-01-28,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0370,Rajesh Sharma,Guwahati,Assam,Tier-2,North-East,2025-07-15,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0371,Rahul Garg,Guwahati,Assam,Tier-2,North-East,2025-01-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0372,Arjun Joshi,Udupi,Karnataka,Tier-3,South,2025-05-26,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0373,Sneha Joshi,Patna,Bihar,Tier-2,East,2024-11-29,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0374,Krishna Verma,New Delhi,Delhi,Tier-1,North,2025-03-05,Retail Consumer,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-0375,Suresh Malhotra,Mumbai,Maharashtra,Tier-1,West,2025-01-29,Micro-Enterprise / Kirana Reseller,NetBanking,ONDC Buyer App - Magicpin
+CUST-0376,Manoj Bhatia,Patna,Bihar,Tier-2,East,2025-05-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0377,Priya Kulkarni,Darbhanga,Bihar,Tier-3,East,2025-09-22,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0378,Manoj Das,Guwahati,Assam,Tier-2,North-East,2024-12-19,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0379,Vikram Joshi,Mumbai,Maharashtra,Tier-1,West,2025-06-08,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0380,Anita Das,Lucknow,Uttar Pradesh,Tier-2,North,2024-10-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0381,Priya Nair,Bhopal,Madhya Pradesh,Tier-2,Central,2025-05-16,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0382,Isha Agrawal,Jaipur,Rajasthan,Tier-2,North,2024-11-20,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0383,Priya Pandey,Silchar,Assam,Tier-3,North-East,2025-08-27,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0384,Pooja Verma,Patna,Bihar,Tier-2,East,2025-02-19,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0385,Saanvi Malhotra,Udupi,Karnataka,Tier-3,South,2025-05-21,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0386,Sai Kulkarni,Kolkata,West Bengal,Tier-1,East,2025-08-25,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0387,Rekha Sharma,New Delhi,Delhi,Tier-1,North,2025-03-20,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Mystore
+CUST-0388,Isha Bhatia,Warangal,Telangana,Tier-3,South,2025-07-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0389,Aadhya Gupta,Udupi,Karnataka,Tier-3,South,2025-07-11,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0390,Aadhya Singh,Kolkata,West Bengal,Tier-1,East,2025-01-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0391,Rohan Pillai,Bengaluru,Karnataka,Tier-1,South,2025-08-02,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0392,Aarav Shah,Udupi,Karnataka,Tier-3,South,2024-12-14,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0393,Krishna Pandey,Lucknow,Uttar Pradesh,Tier-2,North,2024-12-29,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0394,Ayaan Kulkarni,Udupi,Karnataka,Tier-3,South,2024-10-14,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0395,Krishna Sharma,Jaipur,Rajasthan,Tier-2,North,2025-01-30,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0396,Sunil Reddy,New Delhi,Delhi,Tier-1,North,2024-12-29,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0397,Navya Verma,Bengaluru,Karnataka,Tier-1,South,2025-05-04,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0398,Geeta Malhotra,Darbhanga,Bihar,Tier-3,East,2024-11-02,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0399,Rajesh Banerjee,Warangal,Telangana,Tier-3,South,2025-04-04,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-0400,Meena Singh,Mumbai,Maharashtra,Tier-1,West,2025-05-20,Healthcare Clinic / Dispensary,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0401,Meena Patel,Guwahati,Assam,Tier-2,North-East,2024-10-23,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0402,Geeta Mehta,Bhopal,Madhya Pradesh,Tier-2,Central,2025-08-26,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0403,Vivaan Verma,Bhopal,Madhya Pradesh,Tier-2,Central,2025-04-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0404,Sunita Kulkarni,Mumbai,Maharashtra,Tier-1,West,2025-06-09,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0405,Deepak Gupta,Silchar,Assam,Tier-3,North-East,2024-11-11,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0406,Rahul Yadav,Bengaluru,Karnataka,Tier-1,South,2024-11-03,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0407,Krishna Shah,Guwahati,Assam,Tier-2,North-East,2025-08-21,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0408,Sunil Pandey,Darbhanga,Bihar,Tier-3,East,2025-03-16,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0409,Amit Yadav,Coimbatore,Tamil Nadu,Tier-2,South,2025-02-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0410,Kavita Mishra,Guwahati,Assam,Tier-2,North-East,2025-05-09,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0411,Reyansh Menon,Darbhanga,Bihar,Tier-3,East,2024-11-28,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0412,Sanjay Patil,Udupi,Karnataka,Tier-3,South,2025-01-19,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0413,Sunita Banerjee,Silchar,Assam,Tier-3,North-East,2025-01-25,Micro-Enterprise / Kirana Reseller,UPI,Direct Hyperlocal Web
+CUST-0414,Vikram Reddy,Udupi,Karnataka,Tier-3,South,2025-05-21,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0415,Neha Das,Darbhanga,Bihar,Tier-3,East,2024-11-18,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0416,Rahul Das,Jaipur,Rajasthan,Tier-2,North,2025-09-06,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0417,Navya Rao,Bengaluru,Karnataka,Tier-1,South,2025-09-17,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Mystore
+CUST-0418,Rajesh Gupta,Mumbai,Maharashtra,Tier-1,West,2024-11-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0419,Sai Das,Mumbai,Maharashtra,Tier-1,West,2025-04-09,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0420,Krishna Pandey,New Delhi,Delhi,Tier-1,North,2025-07-28,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0421,Sanjay Pandey,Jaipur,Rajasthan,Tier-2,North,2025-09-09,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0422,Ayaan Das,Jaipur,Rajasthan,Tier-2,North,2025-09-06,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0423,Sunita Agrawal,Silchar,Assam,Tier-3,North-East,2024-10-27,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0424,Myra Yadav,Lucknow,Uttar Pradesh,Tier-2,North,2025-03-30,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0425,Reyansh Singh,Coimbatore,Tamil Nadu,Tier-2,South,2025-01-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0426,Ishaan Kulkarni,Bhopal,Madhya Pradesh,Tier-2,Central,2025-01-23,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0427,Reyansh Rao,Udupi,Karnataka,Tier-3,South,2025-07-12,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0428,Priya Malhotra,Warangal,Telangana,Tier-3,South,2025-02-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0429,Anil Patel,Warangal,Telangana,Tier-3,South,2025-05-08,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0430,Sanjay Pillai,Udupi,Karnataka,Tier-3,South,2025-08-15,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0431,Anita Kulkarni,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-13,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0432,Vivaan Yadav,Silchar,Assam,Tier-3,North-East,2025-09-02,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0433,Riya Sharma,Bengaluru,Karnataka,Tier-1,South,2025-02-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0434,Sneha Garg,Jaipur,Rajasthan,Tier-2,North,2025-03-29,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0435,Aarav Iyer,Udupi,Karnataka,Tier-3,South,2024-12-13,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0436,Anil Kulkarni,Patna,Bihar,Tier-2,East,2024-11-05,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0437,Ishaan Patil,Jammu,Jammu & Kashmir,Tier-3,North,2024-10-16,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0438,Sai Patil,Coimbatore,Tamil Nadu,Tier-2,South,2025-01-19,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Mystore
+CUST-0439,Amit Das,Bhopal,Madhya Pradesh,Tier-2,Central,2025-03-24,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0440,Ananya Rao,Lucknow,Uttar Pradesh,Tier-2,North,2025-03-16,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0441,Anil Yadav,Mumbai,Maharashtra,Tier-1,West,2024-10-27,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0442,Ishaan Iyer,Warangal,Telangana,Tier-3,South,2025-08-13,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0443,Vihaan Kulkarni,Mumbai,Maharashtra,Tier-1,West,2025-02-17,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0444,Deepak Kulkarni,Patna,Bihar,Tier-2,East,2025-06-06,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0445,Rekha Banerjee,Patna,Bihar,Tier-2,East,2025-02-17,Retail Consumer,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-0446,Aadhya Pillai,Coimbatore,Tamil Nadu,Tier-2,South,2024-11-28,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0447,Pooja Das,Mumbai,Maharashtra,Tier-1,West,2025-02-23,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0448,Sunil Chatterjee,Coimbatore,Tamil Nadu,Tier-2,South,2025-09-07,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0449,Sneha Verma,Kolkata,West Bengal,Tier-1,East,2025-04-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0450,Rekha Verma,New Delhi,Delhi,Tier-1,North,2025-01-13,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0451,Sneha Nair,Warangal,Telangana,Tier-3,South,2024-12-10,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0452,Navya Mehta,Jaipur,Rajasthan,Tier-2,North,2024-12-01,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0453,Aarav Chatterjee,Darbhanga,Bihar,Tier-3,East,2025-05-09,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0454,Diya Bhatia,Patna,Bihar,Tier-2,East,2025-06-30,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0455,Pari Mishra,Coimbatore,Tamil Nadu,Tier-2,South,2025-09-08,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0456,Pooja Gupta,Patna,Bihar,Tier-2,East,2024-10-22,Retail Consumer,RuPay Debit,Direct Hyperlocal Web
+CUST-0457,Sunita Sharma,Bhopal,Madhya Pradesh,Tier-2,Central,2024-11-09,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0458,Rahul Singh,Patna,Bihar,Tier-2,East,2025-07-21,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0459,Neha Deshmukh,Jammu,Jammu & Kashmir,Tier-3,North,2025-05-02,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0460,Myra Malhotra,Patna,Bihar,Tier-2,East,2024-10-11,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0461,Rahul Iyer,Warangal,Telangana,Tier-3,South,2025-08-13,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0462,Kavita Kumar,Darbhanga,Bihar,Tier-3,East,2025-04-04,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0463,Sai Das,Udupi,Karnataka,Tier-3,South,2024-11-24,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0464,Isha Das,Guwahati,Assam,Tier-2,North-East,2025-04-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0465,Geeta Gupta,Patna,Bihar,Tier-2,East,2025-03-08,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0466,Rohan Patel,Jaipur,Rajasthan,Tier-2,North,2024-12-26,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0467,Arjun Mishra,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-28,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0468,Geeta Mishra,Kolkata,West Bengal,Tier-1,East,2025-03-28,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0469,Pooja Patil,Udupi,Karnataka,Tier-3,South,2025-08-27,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0470,Ishaan Patel,Mumbai,Maharashtra,Tier-1,West,2024-12-14,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0471,Navya Nair,Bengaluru,Karnataka,Tier-1,South,2025-08-05,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0472,Ishaan Pillai,Warangal,Telangana,Tier-3,South,2025-09-01,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0473,Arjun Iyer,Warangal,Telangana,Tier-3,South,2025-08-18,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0474,Suresh Banerjee,Warangal,Telangana,Tier-3,South,2025-07-16,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0475,Sunil Banerjee,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-17,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0476,Anita Reddy,Udupi,Karnataka,Tier-3,South,2025-08-18,Healthcare Clinic / Dispensary,UPI,Direct Hyperlocal Web
+CUST-0477,Rahul Bhatia,Bhopal,Madhya Pradesh,Tier-2,Central,2024-11-04,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0478,Rajesh Banerjee,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-05,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0479,Riya Singh,New Delhi,Delhi,Tier-1,North,2025-03-30,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0480,Meena Gupta,Lucknow,Uttar Pradesh,Tier-2,North,2025-05-25,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0481,Deepak Verma,New Delhi,Delhi,Tier-1,North,2025-04-07,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0482,Myra Gupta,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-16,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0483,Anita Yadav,Coimbatore,Tamil Nadu,Tier-2,South,2025-04-15,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-0484,Kavita Singh,Coimbatore,Tamil Nadu,Tier-2,South,2024-10-22,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0485,Deepak Garg,Warangal,Telangana,Tier-3,South,2025-07-20,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0486,Saanvi Reddy,Guwahati,Assam,Tier-2,North-East,2025-06-01,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0487,Meena Bhatia,New Delhi,Delhi,Tier-1,North,2025-05-19,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0488,Reyansh Menon,Silchar,Assam,Tier-3,North-East,2025-03-25,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0489,Sai Mishra,Jammu,Jammu & Kashmir,Tier-3,North,2024-12-28,Healthcare Clinic / Dispensary,UPI,Direct Hyperlocal Web
+CUST-0490,Aditya Patel,Darbhanga,Bihar,Tier-3,East,2025-05-13,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0491,Deepak Mishra,Coimbatore,Tamil Nadu,Tier-2,South,2025-08-09,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0492,Ananya Rao,Jaipur,Rajasthan,Tier-2,North,2025-02-22,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0493,Amit Das,Warangal,Telangana,Tier-3,South,2025-03-23,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0494,Rekha Verma,Warangal,Telangana,Tier-3,South,2025-08-20,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0495,Rohan Gupta,Jaipur,Rajasthan,Tier-2,North,2024-11-18,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0496,Sanjay Kulkarni,Patna,Bihar,Tier-2,East,2025-02-23,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0497,Navya Patil,Udupi,Karnataka,Tier-3,South,2025-09-02,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0498,Rekha Agrawal,Bengaluru,Karnataka,Tier-1,South,2025-03-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0499,Sai Singh,Jammu,Jammu & Kashmir,Tier-3,North,2024-12-12,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0500,Pooja Mehta,Jammu,Jammu & Kashmir,Tier-3,North,2025-09-23,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0501,Neha Bhatia,Guwahati,Assam,Tier-2,North-East,2025-09-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0502,Sai Mehta,Coimbatore,Tamil Nadu,Tier-2,South,2025-04-11,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0503,Rohan Kumar,Bengaluru,Karnataka,Tier-1,South,2025-09-09,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0504,Geeta Gupta,Jammu,Jammu & Kashmir,Tier-3,North,2025-09-09,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0505,Sunita Mishra,Jaipur,Rajasthan,Tier-2,North,2024-10-10,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0506,Priya Mehta,Bengaluru,Karnataka,Tier-1,South,2025-01-18,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0507,Rohan Pillai,Bhopal,Madhya Pradesh,Tier-2,Central,2025-01-07,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0508,Pari Bhatia,Bengaluru,Karnataka,Tier-1,South,2024-11-09,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0509,Myra Agrawal,Warangal,Telangana,Tier-3,South,2024-11-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0510,Meena Pillai,Coimbatore,Tamil Nadu,Tier-2,South,2025-06-27,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0511,Aditya Kulkarni,Jaipur,Rajasthan,Tier-2,North,2025-08-13,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0512,Krishna Yadav,Patna,Bihar,Tier-2,East,2024-12-18,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0513,Ananya Iyer,Udupi,Karnataka,Tier-3,South,2025-09-20,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0514,Anita Menon,Silchar,Assam,Tier-3,North-East,2024-12-24,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0515,Deepak Verma,Patna,Bihar,Tier-2,East,2025-04-05,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0516,Isha Banerjee,Guwahati,Assam,Tier-2,North-East,2025-02-23,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0517,Deepak Patel,Coimbatore,Tamil Nadu,Tier-2,South,2025-01-31,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0518,Sneha Menon,Warangal,Telangana,Tier-3,South,2025-05-29,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0519,Saanvi Rao,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-20,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0520,Deepak Banerjee,Warangal,Telangana,Tier-3,South,2025-02-22,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-0521,Amit Mishra,Coimbatore,Tamil Nadu,Tier-2,South,2025-05-03,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0522,Ananya Kumar,Kolkata,West Bengal,Tier-1,East,2025-08-06,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0523,Krishna Agrawal,Lucknow,Uttar Pradesh,Tier-2,North,2024-10-27,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0524,Rajesh Agrawal,Jaipur,Rajasthan,Tier-2,North,2025-07-11,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0525,Reyansh Deshmukh,Udupi,Karnataka,Tier-3,South,2025-06-22,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0526,Ayaan Mehta,Mumbai,Maharashtra,Tier-1,West,2024-12-22,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0527,Riya Banerjee,Silchar,Assam,Tier-3,North-East,2025-06-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0528,Ishaan Kumar,Patna,Bihar,Tier-2,East,2024-11-16,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0529,Pari Kumar,Bhopal,Madhya Pradesh,Tier-2,Central,2025-03-28,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0530,Vivaan Das,New Delhi,Delhi,Tier-1,North,2025-04-21,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0531,Meena Rao,Kolkata,West Bengal,Tier-1,East,2025-04-16,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0532,Sai Rao,Kolkata,West Bengal,Tier-1,East,2024-10-15,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0533,Rahul Garg,Mumbai,Maharashtra,Tier-1,West,2025-08-29,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0534,Rohan Menon,Bengaluru,Karnataka,Tier-1,South,2024-12-10,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0535,Aditya Mehta,Silchar,Assam,Tier-3,North-East,2025-05-30,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0536,Krishna Pillai,Darbhanga,Bihar,Tier-3,East,2025-05-29,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0537,Deepak Yadav,New Delhi,Delhi,Tier-1,North,2024-11-10,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0538,Vivaan Shah,Kolkata,West Bengal,Tier-1,East,2024-12-16,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0539,Sanjay Patil,Guwahati,Assam,Tier-2,North-East,2025-06-28,Retail Consumer,RuPay Debit,Direct Hyperlocal Web
+CUST-0540,Sunita Malhotra,Warangal,Telangana,Tier-3,South,2025-02-25,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0541,Isha Mehta,Mumbai,Maharashtra,Tier-1,West,2024-10-25,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0542,Isha Das,Jammu,Jammu & Kashmir,Tier-3,North,2025-08-15,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0543,Kavita Gupta,Mumbai,Maharashtra,Tier-1,West,2025-06-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0544,Rekha Pandey,New Delhi,Delhi,Tier-1,North,2025-08-20,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0545,Meena Singh,Kolkata,West Bengal,Tier-1,East,2024-12-13,Retail Consumer,RuPay Debit,Direct Hyperlocal Web
+CUST-0546,Myra Das,New Delhi,Delhi,Tier-1,North,2025-08-11,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0547,Pooja Patel,Guwahati,Assam,Tier-2,North-East,2025-05-02,Healthcare Clinic / Dispensary,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0548,Diya Kulkarni,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-13,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0549,Geeta Rao,Mumbai,Maharashtra,Tier-1,West,2025-06-27,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0550,Manoj Mishra,Warangal,Telangana,Tier-3,South,2025-06-17,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0551,Sanjay Sharma,Patna,Bihar,Tier-2,East,2025-05-29,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0552,Aditya Joshi,Patna,Bihar,Tier-2,East,2025-04-10,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0553,Navya Patil,New Delhi,Delhi,Tier-1,North,2025-04-01,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0554,Arjun Rao,Kolkata,West Bengal,Tier-1,East,2025-09-02,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0555,Reyansh Pillai,Guwahati,Assam,Tier-2,North-East,2025-03-20,Micro-Enterprise / Kirana Reseller,UPI,Direct Hyperlocal Web
+CUST-0556,Krishna Verma,Jaipur,Rajasthan,Tier-2,North,2025-07-07,Micro-Enterprise / Kirana Reseller,UPI,Direct Hyperlocal Web
+CUST-0557,Rohan Kumar,Jammu,Jammu & Kashmir,Tier-3,North,2024-12-29,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0558,Kavita Deshmukh,Bhopal,Madhya Pradesh,Tier-2,Central,2025-08-20,Micro-Enterprise / Kirana Reseller,NetBanking,ONDC Buyer App - Mystore
+CUST-0559,Diya Menon,Bengaluru,Karnataka,Tier-1,South,2024-11-02,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0560,Kavita Verma,Lucknow,Uttar Pradesh,Tier-2,North,2025-01-12,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0561,Aditya Menon,Kolkata,West Bengal,Tier-1,East,2024-10-22,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0562,Rahul Garg,Lucknow,Uttar Pradesh,Tier-2,North,2025-06-21,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0563,Neha Kumar,Coimbatore,Tamil Nadu,Tier-2,South,2025-05-31,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0564,Navya Verma,Warangal,Telangana,Tier-3,South,2025-08-28,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0565,Saanvi Mehta,Jaipur,Rajasthan,Tier-2,North,2024-10-25,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0566,Rohan Shah,Mumbai,Maharashtra,Tier-1,West,2025-04-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0567,Sunita Bansal,Patna,Bihar,Tier-2,East,2025-05-14,Healthcare Clinic / Dispensary,UPI,Direct Hyperlocal Web
+CUST-0568,Amit Reddy,Bengaluru,Karnataka,Tier-1,South,2025-06-12,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0569,Suresh Rao,Silchar,Assam,Tier-3,North-East,2025-06-23,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0570,Riya Menon,Mumbai,Maharashtra,Tier-1,West,2025-05-06,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0571,Sai Das,Guwahati,Assam,Tier-2,North-East,2025-01-01,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0572,Manoj Mehta,Jaipur,Rajasthan,Tier-2,North,2024-11-22,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0573,Sai Reddy,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-01,Retail Consumer,RuPay Debit,Direct Hyperlocal Web
+CUST-0574,Sneha Banerjee,Guwahati,Assam,Tier-2,North-East,2025-05-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0575,Ananya Deshmukh,Bhopal,Madhya Pradesh,Tier-2,Central,2025-03-29,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0576,Deepak Verma,Darbhanga,Bihar,Tier-3,East,2025-03-30,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0577,Anita Das,Lucknow,Uttar Pradesh,Tier-2,North,2025-08-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0578,Vihaan Gupta,Jammu,Jammu & Kashmir,Tier-3,North,2025-08-23,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0579,Neha Rao,Coimbatore,Tamil Nadu,Tier-2,South,2025-09-13,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0580,Ananya Sharma,Bengaluru,Karnataka,Tier-1,South,2025-08-08,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0581,Deepak Verma,Bengaluru,Karnataka,Tier-1,South,2024-11-04,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0582,Isha Pillai,Jammu,Jammu & Kashmir,Tier-3,North,2025-04-06,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0583,Priya Choudhury,Guwahati,Assam,Tier-2,North-East,2024-10-17,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0584,Rekha Bhatia,Jammu,Jammu & Kashmir,Tier-3,North,2025-05-19,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0585,Priya Rao,Bhopal,Madhya Pradesh,Tier-2,Central,2024-11-09,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0586,Anil Bhatia,Coimbatore,Tamil Nadu,Tier-2,South,2025-04-06,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0587,Neha Reddy,Jammu,Jammu & Kashmir,Tier-3,North,2025-02-20,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0588,Isha Malhotra,New Delhi,Delhi,Tier-1,North,2025-01-04,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0589,Suresh Mishra,Patna,Bihar,Tier-2,East,2025-07-15,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0590,Ayaan Shah,Warangal,Telangana,Tier-3,South,2025-02-11,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0591,Deepak Nair,Guwahati,Assam,Tier-2,North-East,2025-02-24,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0592,Suresh Nair,Mumbai,Maharashtra,Tier-1,West,2024-12-09,Healthcare Clinic / Dispensary,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0593,Arjun Banerjee,Bengaluru,Karnataka,Tier-1,South,2025-05-16,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0594,Sai Menon,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-13,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0595,Pooja Deshmukh,Mumbai,Maharashtra,Tier-1,West,2025-07-09,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0596,Manoj Mehta,Silchar,Assam,Tier-3,North-East,2025-03-03,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0597,Ananya Deshmukh,Darbhanga,Bihar,Tier-3,East,2025-09-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0598,Diya Menon,Jaipur,Rajasthan,Tier-2,North,2025-06-18,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0599,Pari Malhotra,Kolkata,West Bengal,Tier-1,East,2024-12-11,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0600,Isha Menon,Bhopal,Madhya Pradesh,Tier-2,Central,2024-10-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0601,Priya Pandey,Guwahati,Assam,Tier-2,North-East,2025-04-07,Healthcare Clinic / Dispensary,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0602,Kavita Menon,Coimbatore,Tamil Nadu,Tier-2,South,2024-12-06,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0603,Anita Bansal,Mumbai,Maharashtra,Tier-1,West,2024-11-03,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0604,Sneha Choudhury,Darbhanga,Bihar,Tier-3,East,2025-06-03,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0605,Geeta Das,Warangal,Telangana,Tier-3,South,2025-04-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0606,Anil Gupta,Bengaluru,Karnataka,Tier-1,South,2025-03-12,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Mystore
+CUST-0607,Arjun Banerjee,Bhopal,Madhya Pradesh,Tier-2,Central,2025-09-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0608,Geeta Rao,Bengaluru,Karnataka,Tier-1,South,2025-07-10,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0609,Sunil Iyer,Warangal,Telangana,Tier-3,South,2024-12-06,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0610,Sunita Mishra,Silchar,Assam,Tier-3,North-East,2024-10-29,Healthcare Clinic / Dispensary,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0611,Ayaan Mishra,Bengaluru,Karnataka,Tier-1,South,2025-03-05,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0612,Ananya Iyer,Jaipur,Rajasthan,Tier-2,North,2025-09-29,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0613,Pari Rao,Coimbatore,Tamil Nadu,Tier-2,South,2025-02-23,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0614,Sai Shah,Kolkata,West Bengal,Tier-1,East,2025-08-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0615,Sanjay Shah,Bengaluru,Karnataka,Tier-1,South,2025-08-17,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0616,Sneha Yadav,Coimbatore,Tamil Nadu,Tier-2,South,2024-11-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0617,Meena Joshi,Bengaluru,Karnataka,Tier-1,South,2025-07-31,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0618,Sunil Bhatia,Bengaluru,Karnataka,Tier-1,South,2025-09-03,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0619,Anita Patil,Silchar,Assam,Tier-3,North-East,2025-08-06,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Mystore
+CUST-0620,Rohan Kumar,Silchar,Assam,Tier-3,North-East,2025-07-16,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0621,Aditya Kumar,Udupi,Karnataka,Tier-3,South,2024-10-15,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0622,Sai Verma,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-23,Retail Consumer,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-0623,Navya Joshi,Kolkata,West Bengal,Tier-1,East,2025-07-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0624,Vikram Yadav,Jammu,Jammu & Kashmir,Tier-3,North,2024-10-16,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0625,Suresh Bansal,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-07,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0626,Myra Joshi,Lucknow,Uttar Pradesh,Tier-2,North,2025-06-05,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0627,Isha Menon,Warangal,Telangana,Tier-3,South,2025-09-16,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0628,Neha Mehta,Bhopal,Madhya Pradesh,Tier-2,Central,2024-11-07,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Mystore
+CUST-0629,Vihaan Iyer,Bhopal,Madhya Pradesh,Tier-2,Central,2025-05-01,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0630,Rajesh Banerjee,Kolkata,West Bengal,Tier-1,East,2025-03-24,Retail Consumer,RuPay Debit,Direct Hyperlocal Web
+CUST-0631,Rekha Bhatia,Jaipur,Rajasthan,Tier-2,North,2025-03-13,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0632,Pooja Choudhury,Bengaluru,Karnataka,Tier-1,South,2025-04-08,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0633,Meena Pandey,Mumbai,Maharashtra,Tier-1,West,2025-03-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0634,Isha Banerjee,Mumbai,Maharashtra,Tier-1,West,2025-02-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0635,Deepak Patel,Bengaluru,Karnataka,Tier-1,South,2024-11-19,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0636,Vihaan Mehta,Patna,Bihar,Tier-2,East,2025-08-12,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0637,Vikram Patel,Udupi,Karnataka,Tier-3,South,2024-12-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0638,Rahul Garg,Guwahati,Assam,Tier-2,North-East,2025-03-10,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0639,Saanvi Pillai,Bengaluru,Karnataka,Tier-1,South,2025-06-13,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0640,Meena Banerjee,Bhopal,Madhya Pradesh,Tier-2,Central,2025-03-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0641,Suresh Sharma,Mumbai,Maharashtra,Tier-1,West,2025-04-20,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0642,Meena Banerjee,Kolkata,West Bengal,Tier-1,East,2025-01-19,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0643,Sunil Rao,New Delhi,Delhi,Tier-1,North,2024-10-26,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0644,Myra Chatterjee,Guwahati,Assam,Tier-2,North-East,2025-08-31,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0645,Rajesh Mehta,Coimbatore,Tamil Nadu,Tier-2,South,2024-10-05,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0646,Reyansh Das,Bengaluru,Karnataka,Tier-1,South,2025-02-13,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0647,Priya Pillai,Patna,Bihar,Tier-2,East,2025-04-06,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0648,Aditya Choudhury,New Delhi,Delhi,Tier-1,North,2025-07-19,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0649,Sanjay Nair,Jaipur,Rajasthan,Tier-2,North,2025-07-11,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0650,Myra Gupta,Patna,Bihar,Tier-2,East,2025-06-16,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0651,Deepak Pillai,Coimbatore,Tamil Nadu,Tier-2,South,2025-02-21,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0652,Anita Kulkarni,Guwahati,Assam,Tier-2,North-East,2024-11-30,Retail Consumer,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-0653,Krishna Malhotra,Patna,Bihar,Tier-2,East,2025-04-10,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0654,Rohan Pandey,Jaipur,Rajasthan,Tier-2,North,2024-12-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0655,Saanvi Yadav,Coimbatore,Tamil Nadu,Tier-2,South,2025-04-24,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0656,Meena Verma,New Delhi,Delhi,Tier-1,North,2024-10-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0657,Krishna Deshmukh,Jaipur,Rajasthan,Tier-2,North,2025-05-31,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0658,Geeta Banerjee,Bengaluru,Karnataka,Tier-1,South,2025-08-07,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0659,Meena Bhatia,Jaipur,Rajasthan,Tier-2,North,2025-08-10,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0660,Rahul Iyer,Patna,Bihar,Tier-2,East,2025-08-12,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0661,Sneha Singh,Jaipur,Rajasthan,Tier-2,North,2025-06-17,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0662,Meena Pandey,Bhopal,Madhya Pradesh,Tier-2,Central,2025-09-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0663,Anil Mehta,Bhopal,Madhya Pradesh,Tier-2,Central,2024-10-09,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0664,Priya Reddy,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-26,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0665,Vikram Singh,Lucknow,Uttar Pradesh,Tier-2,North,2025-09-18,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0666,Vivaan Yadav,Bhopal,Madhya Pradesh,Tier-2,Central,2025-02-13,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0667,Sunil Singh,Kolkata,West Bengal,Tier-1,East,2024-10-27,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0668,Sunil Chatterjee,Bengaluru,Karnataka,Tier-1,South,2025-06-26,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0669,Anita Pillai,Udupi,Karnataka,Tier-3,South,2025-04-13,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0670,Ishaan Kumar,Jammu,Jammu & Kashmir,Tier-3,North,2025-02-02,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0671,Aditya Singh,Darbhanga,Bihar,Tier-3,East,2024-11-26,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0672,Saanvi Sharma,Bhopal,Madhya Pradesh,Tier-2,Central,2025-03-10,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0673,Vikram Bhatia,Patna,Bihar,Tier-2,East,2025-09-19,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0674,Aadhya Das,Coimbatore,Tamil Nadu,Tier-2,South,2025-08-10,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0675,Rajesh Agrawal,Udupi,Karnataka,Tier-3,South,2024-11-01,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0676,Krishna Mishra,Kolkata,West Bengal,Tier-1,East,2025-07-15,Retail Consumer,RuPay Debit,Direct Hyperlocal Web
+CUST-0677,Rahul Kulkarni,Bhopal,Madhya Pradesh,Tier-2,Central,2025-06-27,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0678,Amit Reddy,Bengaluru,Karnataka,Tier-1,South,2025-05-24,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0679,Manoj Reddy,Coimbatore,Tamil Nadu,Tier-2,South,2025-03-31,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0680,Navya Yadav,Bhopal,Madhya Pradesh,Tier-2,Central,2025-01-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0681,Isha Shah,Coimbatore,Tamil Nadu,Tier-2,South,2025-03-02,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0682,Pari Mehta,Warangal,Telangana,Tier-3,South,2025-02-25,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0683,Aadhya Deshmukh,Darbhanga,Bihar,Tier-3,East,2025-06-08,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0684,Rahul Chatterjee,Jaipur,Rajasthan,Tier-2,North,2025-07-14,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0685,Riya Mehta,Mumbai,Maharashtra,Tier-1,West,2025-07-21,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0686,Manoj Choudhury,Silchar,Assam,Tier-3,North-East,2025-04-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0687,Pooja Pillai,Warangal,Telangana,Tier-3,South,2024-12-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0688,Myra Verma,Lucknow,Uttar Pradesh,Tier-2,North,2024-11-10,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0689,Pooja Garg,Bhopal,Madhya Pradesh,Tier-2,Central,2025-09-01,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0690,Navya Patil,Bhopal,Madhya Pradesh,Tier-2,Central,2025-01-18,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0691,Saanvi Kumar,Coimbatore,Tamil Nadu,Tier-2,South,2025-02-16,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0692,Sanjay Deshmukh,Lucknow,Uttar Pradesh,Tier-2,North,2024-12-10,Micro-Enterprise / Kirana Reseller,NetBanking,ONDC Buyer App - Mystore
+CUST-0693,Reyansh Yadav,Darbhanga,Bihar,Tier-3,East,2025-07-28,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0694,Isha Patel,New Delhi,Delhi,Tier-1,North,2025-09-08,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0695,Geeta Patel,Jammu,Jammu & Kashmir,Tier-3,North,2025-01-28,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0696,Vihaan Malhotra,Patna,Bihar,Tier-2,East,2025-03-19,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0697,Rajesh Malhotra,Jammu,Jammu & Kashmir,Tier-3,North,2024-12-10,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0698,Aarav Pandey,Silchar,Assam,Tier-3,North-East,2024-12-20,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0699,Vikram Joshi,Silchar,Assam,Tier-3,North-East,2025-06-01,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0700,Rajesh Joshi,Kolkata,West Bengal,Tier-1,East,2025-02-25,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0701,Rahul Mehta,Jammu,Jammu & Kashmir,Tier-3,North,2024-10-31,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0702,Sai Joshi,Guwahati,Assam,Tier-2,North-East,2025-01-27,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0703,Manoj Patil,Darbhanga,Bihar,Tier-3,East,2024-10-20,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0704,Diya Das,Silchar,Assam,Tier-3,North-East,2024-12-30,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0705,Aditya Kumar,Patna,Bihar,Tier-2,East,2025-06-11,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0706,Diya Garg,Darbhanga,Bihar,Tier-3,East,2025-02-26,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0707,Aditya Sharma,Lucknow,Uttar Pradesh,Tier-2,North,2025-07-18,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0708,Rekha Malhotra,Silchar,Assam,Tier-3,North-East,2025-03-21,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0709,Myra Banerjee,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-06,Healthcare Clinic / Dispensary,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0710,Geeta Chatterjee,Silchar,Assam,Tier-3,North-East,2024-12-08,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0711,Meena Banerjee,Lucknow,Uttar Pradesh,Tier-2,North,2025-01-07,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0712,Ayaan Reddy,Bengaluru,Karnataka,Tier-1,South,2025-05-23,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0713,Navya Deshmukh,Bengaluru,Karnataka,Tier-1,South,2024-10-08,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0714,Rohan Menon,Lucknow,Uttar Pradesh,Tier-2,North,2025-07-18,Micro-Enterprise / Kirana Reseller,NetBanking,ONDC Buyer App - Magicpin
+CUST-0715,Saanvi Iyer,Guwahati,Assam,Tier-2,North-East,2025-08-24,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0716,Neha Kumar,Patna,Bihar,Tier-2,East,2025-06-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0717,Rahul Gupta,Patna,Bihar,Tier-2,East,2025-09-08,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0718,Reyansh Iyer,Bengaluru,Karnataka,Tier-1,South,2025-06-02,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0719,Rahul Garg,Kolkata,West Bengal,Tier-1,East,2024-10-04,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0720,Navya Choudhury,Kolkata,West Bengal,Tier-1,East,2025-05-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0721,Riya Reddy,Lucknow,Uttar Pradesh,Tier-2,North,2025-07-26,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0722,Anil Sharma,Lucknow,Uttar Pradesh,Tier-2,North,2025-08-31,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0723,Priya Deshmukh,Kolkata,West Bengal,Tier-1,East,2024-11-01,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0724,Ayaan Banerjee,Lucknow,Uttar Pradesh,Tier-2,North,2024-12-21,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0725,Neha Kulkarni,Coimbatore,Tamil Nadu,Tier-2,South,2025-09-26,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0726,Sneha Deshmukh,Mumbai,Maharashtra,Tier-1,West,2025-08-24,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0727,Myra Rao,Guwahati,Assam,Tier-2,North-East,2025-01-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0728,Pari Bhatia,Bhopal,Madhya Pradesh,Tier-2,Central,2024-12-18,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0729,Kavita Patil,Guwahati,Assam,Tier-2,North-East,2025-04-10,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0730,Vikram Deshmukh,Coimbatore,Tamil Nadu,Tier-2,South,2025-05-30,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0731,Manoj Menon,Jammu,Jammu & Kashmir,Tier-3,North,2025-01-20,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0732,Isha Kulkarni,Warangal,Telangana,Tier-3,South,2025-08-02,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0733,Sai Mishra,Bhopal,Madhya Pradesh,Tier-2,Central,2025-06-28,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0734,Priya Gupta,Silchar,Assam,Tier-3,North-East,2025-07-16,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0735,Ayaan Verma,Udupi,Karnataka,Tier-3,South,2025-07-08,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0736,Meena Nair,Guwahati,Assam,Tier-2,North-East,2025-07-02,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Mystore
+CUST-0737,Ishaan Iyer,Jaipur,Rajasthan,Tier-2,North,2025-06-24,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0738,Deepak Malhotra,Jammu,Jammu & Kashmir,Tier-3,North,2025-01-14,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0739,Sunil Chatterjee,Mumbai,Maharashtra,Tier-1,West,2025-06-19,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0740,Deepak Menon,New Delhi,Delhi,Tier-1,North,2025-05-21,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0741,Krishna Mishra,Patna,Bihar,Tier-2,East,2025-05-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0742,Anil Verma,Coimbatore,Tamil Nadu,Tier-2,South,2025-05-25,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0743,Sneha Patil,New Delhi,Delhi,Tier-1,North,2025-04-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0744,Navya Kumar,New Delhi,Delhi,Tier-1,North,2025-01-20,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0745,Sunil Gupta,New Delhi,Delhi,Tier-1,North,2025-05-05,Micro-Enterprise / Kirana Reseller,NetBanking,ONDC Buyer App - Magicpin
+CUST-0746,Pooja Deshmukh,Mumbai,Maharashtra,Tier-1,West,2025-07-05,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0747,Vihaan Garg,Silchar,Assam,Tier-3,North-East,2024-11-05,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0748,Rajesh Verma,Lucknow,Uttar Pradesh,Tier-2,North,2025-04-28,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0749,Diya Pillai,Bengaluru,Karnataka,Tier-1,South,2025-08-25,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0750,Vikram Rao,Silchar,Assam,Tier-3,North-East,2025-04-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0751,Deepak Agrawal,Silchar,Assam,Tier-3,North-East,2025-04-12,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0752,Amit Gupta,Jammu,Jammu & Kashmir,Tier-3,North,2025-09-04,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0753,Manoj Bhatia,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0754,Ayaan Iyer,Coimbatore,Tamil Nadu,Tier-2,South,2025-04-20,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0755,Geeta Bhatia,Darbhanga,Bihar,Tier-3,East,2025-01-23,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0756,Aarav Pillai,New Delhi,Delhi,Tier-1,North,2025-03-02,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0757,Kavita Kulkarni,Darbhanga,Bihar,Tier-3,East,2025-07-06,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0758,Sunita Pandey,Patna,Bihar,Tier-2,East,2025-01-26,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0759,Isha Banerjee,Jaipur,Rajasthan,Tier-2,North,2024-12-19,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0760,Riya Nair,Silchar,Assam,Tier-3,North-East,2024-11-27,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0761,Aditya Menon,Jammu,Jammu & Kashmir,Tier-3,North,2025-05-03,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0762,Anita Pillai,Silchar,Assam,Tier-3,North-East,2024-10-09,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0763,Isha Nair,Mumbai,Maharashtra,Tier-1,West,2024-11-21,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0764,Rekha Verma,Bhopal,Madhya Pradesh,Tier-2,Central,2025-08-03,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0765,Vihaan Patel,Darbhanga,Bihar,Tier-3,East,2024-10-23,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0766,Neha Banerjee,Kolkata,West Bengal,Tier-1,East,2025-07-04,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0767,Aadhya Pillai,Udupi,Karnataka,Tier-3,South,2024-10-29,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0768,Krishna Mishra,Lucknow,Uttar Pradesh,Tier-2,North,2025-01-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0769,Anil Reddy,Guwahati,Assam,Tier-2,North-East,2025-08-03,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0770,Rahul Patel,Lucknow,Uttar Pradesh,Tier-2,North,2024-12-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0771,Geeta Patel,Patna,Bihar,Tier-2,East,2025-03-03,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0772,Riya Verma,Coimbatore,Tamil Nadu,Tier-2,South,2025-07-30,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0773,Diya Joshi,Jammu,Jammu & Kashmir,Tier-3,North,2025-05-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0774,Sanjay Chatterjee,New Delhi,Delhi,Tier-1,North,2025-03-26,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0775,Amit Menon,Coimbatore,Tamil Nadu,Tier-2,South,2025-03-13,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0776,Vikram Das,Bengaluru,Karnataka,Tier-1,South,2025-03-03,Healthcare Clinic / Dispensary,NetBanking,ONDC Buyer App - Paytm
+CUST-0777,Amit Iyer,Warangal,Telangana,Tier-3,South,2025-07-03,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0778,Rajesh Patel,Udupi,Karnataka,Tier-3,South,2025-01-24,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0779,Sneha Agrawal,Darbhanga,Bihar,Tier-3,East,2024-12-13,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0780,Kavita Garg,New Delhi,Delhi,Tier-1,North,2025-07-15,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0781,Vikram Das,Coimbatore,Tamil Nadu,Tier-2,South,2025-06-29,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0782,Krishna Choudhury,Kolkata,West Bengal,Tier-1,East,2025-02-08,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0783,Aadhya Reddy,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-10,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0784,Deepak Agrawal,Jaipur,Rajasthan,Tier-2,North,2024-11-17,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0785,Manoj Patil,Udupi,Karnataka,Tier-3,South,2025-01-06,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0786,Vihaan Shah,Patna,Bihar,Tier-2,East,2025-09-10,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0787,Rekha Yadav,New Delhi,Delhi,Tier-1,North,2024-11-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0788,Saanvi Menon,Warangal,Telangana,Tier-3,South,2025-07-28,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0789,Sanjay Nair,Bhopal,Madhya Pradesh,Tier-2,Central,2025-01-15,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0790,Rohan Mehta,Silchar,Assam,Tier-3,North-East,2024-10-08,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0791,Aadhya Garg,Kolkata,West Bengal,Tier-1,East,2024-11-30,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0792,Rajesh Garg,Kolkata,West Bengal,Tier-1,East,2025-09-22,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0793,Rekha Deshmukh,Kolkata,West Bengal,Tier-1,East,2025-04-22,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0794,Isha Pandey,Jaipur,Rajasthan,Tier-2,North,2025-02-22,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0795,Amit Banerjee,Coimbatore,Tamil Nadu,Tier-2,South,2025-08-29,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0796,Pooja Mehta,Lucknow,Uttar Pradesh,Tier-2,North,2025-04-03,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0797,Meena Bansal,Bhopal,Madhya Pradesh,Tier-2,Central,2025-05-27,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0798,Reyansh Menon,Darbhanga,Bihar,Tier-3,East,2025-05-29,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0799,Rahul Garg,Kolkata,West Bengal,Tier-1,East,2025-04-08,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0800,Rahul Das,New Delhi,Delhi,Tier-1,North,2025-07-16,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0801,Pari Patil,Bengaluru,Karnataka,Tier-1,South,2024-10-09,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0802,Navya Pandey,Silchar,Assam,Tier-3,North-East,2025-07-27,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0803,Sunil Patil,Patna,Bihar,Tier-2,East,2025-03-01,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0804,Ishaan Nair,Jaipur,Rajasthan,Tier-2,North,2025-01-26,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0805,Amit Singh,Udupi,Karnataka,Tier-3,South,2025-02-03,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0806,Suresh Pandey,Jammu,Jammu & Kashmir,Tier-3,North,2025-09-16,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0807,Rohan Shah,Warangal,Telangana,Tier-3,South,2025-06-08,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0808,Suresh Banerjee,Bengaluru,Karnataka,Tier-1,South,2025-03-30,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0809,Ananya Bhatia,Darbhanga,Bihar,Tier-3,East,2025-07-07,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0810,Suresh Iyer,Silchar,Assam,Tier-3,North-East,2025-07-05,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Mystore
+CUST-0811,Vihaan Mishra,New Delhi,Delhi,Tier-1,North,2024-11-08,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-0812,Vihaan Pillai,New Delhi,Delhi,Tier-1,North,2025-04-30,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0813,Krishna Kumar,Jammu,Jammu & Kashmir,Tier-3,North,2025-01-27,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0814,Arjun Deshmukh,Bengaluru,Karnataka,Tier-1,South,2024-10-05,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0815,Aadhya Mishra,Bhopal,Madhya Pradesh,Tier-2,Central,2025-04-10,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0816,Vihaan Yadav,Jammu,Jammu & Kashmir,Tier-3,North,2025-09-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0817,Anita Garg,Bhopal,Madhya Pradesh,Tier-2,Central,2025-09-03,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0818,Suresh Sharma,New Delhi,Delhi,Tier-1,North,2025-06-30,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0819,Sanjay Das,New Delhi,Delhi,Tier-1,North,2024-10-09,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0820,Geeta Patil,Lucknow,Uttar Pradesh,Tier-2,North,2025-07-02,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0821,Myra Sharma,Coimbatore,Tamil Nadu,Tier-2,South,2025-09-23,Healthcare Clinic / Dispensary,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0822,Sunita Menon,Silchar,Assam,Tier-3,North-East,2024-12-31,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0823,Reyansh Garg,Mumbai,Maharashtra,Tier-1,West,2025-06-26,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0824,Ishaan Patel,Kolkata,West Bengal,Tier-1,East,2025-08-14,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0825,Geeta Shah,Udupi,Karnataka,Tier-3,South,2025-03-31,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0826,Riya Menon,Patna,Bihar,Tier-2,East,2024-11-10,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Mystore
+CUST-0827,Priya Choudhury,Bhopal,Madhya Pradesh,Tier-2,Central,2025-07-17,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0828,Isha Deshmukh,Kolkata,West Bengal,Tier-1,East,2025-03-03,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0829,Sai Joshi,Udupi,Karnataka,Tier-3,South,2025-08-29,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0830,Aditya Gupta,Patna,Bihar,Tier-2,East,2025-04-13,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0831,Amit Pandey,Bhopal,Madhya Pradesh,Tier-2,Central,2024-10-29,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0832,Aarav Deshmukh,Bengaluru,Karnataka,Tier-1,South,2024-11-12,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0833,Suresh Agrawal,Patna,Bihar,Tier-2,East,2025-08-27,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-0834,Rohan Singh,Udupi,Karnataka,Tier-3,South,2024-11-18,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0835,Geeta Garg,New Delhi,Delhi,Tier-1,North,2025-01-26,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0836,Aadhya Bansal,Udupi,Karnataka,Tier-3,South,2025-09-20,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0837,Anil Chatterjee,Lucknow,Uttar Pradesh,Tier-2,North,2024-10-24,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0838,Arjun Kulkarni,Silchar,Assam,Tier-3,North-East,2025-02-21,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0839,Manoj Singh,Jammu,Jammu & Kashmir,Tier-3,North,2024-10-17,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0840,Diya Garg,Udupi,Karnataka,Tier-3,South,2025-03-11,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0841,Vivaan Nair,Guwahati,Assam,Tier-2,North-East,2024-12-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0842,Neha Garg,Mumbai,Maharashtra,Tier-1,West,2025-03-03,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0843,Ananya Singh,Kolkata,West Bengal,Tier-1,East,2025-07-18,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0844,Amit Kulkarni,Silchar,Assam,Tier-3,North-East,2025-07-04,Healthcare Clinic / Dispensary,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0845,Rohan Choudhury,Warangal,Telangana,Tier-3,South,2024-12-11,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0846,Sai Mishra,Darbhanga,Bihar,Tier-3,East,2025-03-27,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0847,Vihaan Malhotra,Patna,Bihar,Tier-2,East,2025-01-27,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0848,Arjun Reddy,Guwahati,Assam,Tier-2,North-East,2025-08-11,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0849,Rekha Choudhury,Warangal,Telangana,Tier-3,South,2025-03-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0850,Vivaan Joshi,Lucknow,Uttar Pradesh,Tier-2,North,2025-05-19,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0851,Suresh Patel,Jaipur,Rajasthan,Tier-2,North,2025-07-11,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0852,Amit Das,Bengaluru,Karnataka,Tier-1,South,2025-09-14,Micro-Enterprise / Kirana Reseller,UPI,Direct Hyperlocal Web
+CUST-0853,Sunil Kulkarni,Patna,Bihar,Tier-2,East,2024-11-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0854,Anita Mehta,Warangal,Telangana,Tier-3,South,2025-02-04,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0855,Arjun Gupta,Lucknow,Uttar Pradesh,Tier-2,North,2024-12-18,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0856,Amit Deshmukh,Warangal,Telangana,Tier-3,South,2025-08-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0857,Ishaan Patil,Patna,Bihar,Tier-2,East,2025-03-12,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0858,Priya Malhotra,Mumbai,Maharashtra,Tier-1,West,2024-10-03,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0859,Sneha Banerjee,Jaipur,Rajasthan,Tier-2,North,2025-02-16,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0860,Reyansh Bhatia,Mumbai,Maharashtra,Tier-1,West,2025-01-04,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0861,Sunita Banerjee,Coimbatore,Tamil Nadu,Tier-2,South,2025-07-12,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0862,Meena Das,Mumbai,Maharashtra,Tier-1,West,2024-10-14,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0863,Sai Rao,Coimbatore,Tamil Nadu,Tier-2,South,2024-11-17,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0864,Rekha Yadav,Warangal,Telangana,Tier-3,South,2025-03-16,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0865,Amit Sharma,Lucknow,Uttar Pradesh,Tier-2,North,2025-04-30,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0866,Amit Pillai,Mumbai,Maharashtra,Tier-1,West,2025-07-14,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0867,Isha Singh,Coimbatore,Tamil Nadu,Tier-2,South,2024-12-26,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0868,Amit Iyer,Bengaluru,Karnataka,Tier-1,South,2025-02-15,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0869,Sneha Shah,Bhopal,Madhya Pradesh,Tier-2,Central,2024-12-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0870,Arjun Iyer,Patna,Bihar,Tier-2,East,2025-02-19,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0871,Vikram Mehta,Bhopal,Madhya Pradesh,Tier-2,Central,2024-11-09,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0872,Priya Shah,Kolkata,West Bengal,Tier-1,East,2025-08-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0873,Suresh Yadav,Guwahati,Assam,Tier-2,North-East,2025-01-09,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0874,Kavita Malhotra,Bengaluru,Karnataka,Tier-1,South,2025-03-05,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0875,Aarav Choudhury,Jaipur,Rajasthan,Tier-2,North,2025-08-14,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0876,Amit Menon,Udupi,Karnataka,Tier-3,South,2025-03-18,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0877,Deepak Reddy,Patna,Bihar,Tier-2,East,2025-08-30,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0878,Rekha Bhatia,Lucknow,Uttar Pradesh,Tier-2,North,2025-03-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0879,Rekha Deshmukh,Kolkata,West Bengal,Tier-1,East,2025-06-03,Retail Consumer,RuPay Debit,Direct Hyperlocal Web
+CUST-0880,Rahul Iyer,Patna,Bihar,Tier-2,East,2025-03-13,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0881,Myra Patil,Darbhanga,Bihar,Tier-3,East,2025-08-21,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0882,Suresh Singh,Warangal,Telangana,Tier-3,South,2025-02-02,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0883,Rahul Choudhury,Lucknow,Uttar Pradesh,Tier-2,North,2025-04-20,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0884,Priya Malhotra,Silchar,Assam,Tier-3,North-East,2025-07-16,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0885,Saanvi Singh,Coimbatore,Tamil Nadu,Tier-2,South,2025-01-01,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0886,Sanjay Sharma,Darbhanga,Bihar,Tier-3,East,2025-05-25,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-0887,Aadhya Banerjee,Warangal,Telangana,Tier-3,South,2025-02-27,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0888,Arjun Kumar,Udupi,Karnataka,Tier-3,South,2025-04-28,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0889,Suresh Bhatia,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-05,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0890,Isha Shah,Jammu,Jammu & Kashmir,Tier-3,North,2024-12-18,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0891,Sunita Menon,Patna,Bihar,Tier-2,East,2024-11-07,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0892,Deepak Yadav,Bhopal,Madhya Pradesh,Tier-2,Central,2025-07-26,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0893,Neha Pandey,Coimbatore,Tamil Nadu,Tier-2,South,2025-09-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0894,Vikram Pandey,New Delhi,Delhi,Tier-1,North,2025-04-03,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0895,Manoj Yadav,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0896,Reyansh Pillai,Kolkata,West Bengal,Tier-1,East,2025-09-02,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0897,Pooja Iyer,Jammu,Jammu & Kashmir,Tier-3,North,2025-08-10,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0898,Aditya Singh,Jammu,Jammu & Kashmir,Tier-3,North,2025-09-12,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0899,Neha Pillai,Jaipur,Rajasthan,Tier-2,North,2025-05-09,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0900,Reyansh Sharma,Mumbai,Maharashtra,Tier-1,West,2025-02-10,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0901,Pari Mishra,Darbhanga,Bihar,Tier-3,East,2025-06-23,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0902,Sanjay Singh,Darbhanga,Bihar,Tier-3,East,2025-07-22,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0903,Pari Banerjee,Jaipur,Rajasthan,Tier-2,North,2025-04-19,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0904,Kavita Pillai,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-29,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0905,Meena Bhatia,Jaipur,Rajasthan,Tier-2,North,2024-10-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0906,Rajesh Malhotra,Lucknow,Uttar Pradesh,Tier-2,North,2025-05-01,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0907,Sai Malhotra,Udupi,Karnataka,Tier-3,South,2024-12-12,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0908,Pooja Mehta,Jaipur,Rajasthan,Tier-2,North,2025-05-22,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0909,Aadhya Mishra,Bhopal,Madhya Pradesh,Tier-2,Central,2025-03-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0910,Rajesh Malhotra,Bhopal,Madhya Pradesh,Tier-2,Central,2025-09-22,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0911,Deepak Reddy,Mumbai,Maharashtra,Tier-1,West,2025-03-03,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0912,Aditya Menon,Darbhanga,Bihar,Tier-3,East,2024-11-28,Healthcare Clinic / Dispensary,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0913,Vivaan Agrawal,Jaipur,Rajasthan,Tier-2,North,2025-08-28,Healthcare Clinic / Dispensary,UPI,Direct Hyperlocal Web
+CUST-0914,Reyansh Kulkarni,Warangal,Telangana,Tier-3,South,2024-12-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0915,Isha Mishra,Bengaluru,Karnataka,Tier-1,South,2025-07-10,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0916,Ananya Reddy,Coimbatore,Tamil Nadu,Tier-2,South,2025-05-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0917,Kavita Patel,Warangal,Telangana,Tier-3,South,2025-04-26,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0918,Diya Iyer,Jammu,Jammu & Kashmir,Tier-3,North,2025-09-02,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0919,Sunita Choudhury,New Delhi,Delhi,Tier-1,North,2025-08-11,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0920,Saanvi Banerjee,Guwahati,Assam,Tier-2,North-East,2025-05-08,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0921,Amit Sharma,Darbhanga,Bihar,Tier-3,East,2025-01-18,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0922,Aadhya Shah,Warangal,Telangana,Tier-3,South,2025-09-26,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0923,Arjun Singh,Mumbai,Maharashtra,Tier-1,West,2025-07-02,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0924,Diya Rao,Jaipur,Rajasthan,Tier-2,North,2025-01-09,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0925,Kavita Malhotra,Lucknow,Uttar Pradesh,Tier-2,North,2025-09-09,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0926,Suresh Mishra,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-10,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0927,Rekha Choudhury,Guwahati,Assam,Tier-2,North-East,2025-04-19,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0928,Sunil Malhotra,Jaipur,Rajasthan,Tier-2,North,2025-03-30,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-0929,Kavita Yadav,Bengaluru,Karnataka,Tier-1,South,2025-09-10,Micro-Enterprise / Kirana Reseller,UPI,Direct Hyperlocal Web
+CUST-0930,Sneha Garg,Guwahati,Assam,Tier-2,North-East,2025-07-30,Retail Consumer,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-0931,Sai Kulkarni,Bengaluru,Karnataka,Tier-1,South,2025-03-10,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0932,Ayaan Patel,Lucknow,Uttar Pradesh,Tier-2,North,2024-11-29,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0933,Diya Rao,Darbhanga,Bihar,Tier-3,East,2024-12-12,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0934,Meena Choudhury,Patna,Bihar,Tier-2,East,2025-08-02,Retail Consumer,RuPay Debit,Direct Hyperlocal Web
+CUST-0935,Krishna Singh,Patna,Bihar,Tier-2,East,2025-05-05,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0936,Diya Chatterjee,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-03,Healthcare Clinic / Dispensary,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0937,Diya Pandey,Bengaluru,Karnataka,Tier-1,South,2025-06-08,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0938,Myra Bhatia,Bengaluru,Karnataka,Tier-1,South,2025-03-11,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0939,Deepak Yadav,New Delhi,Delhi,Tier-1,North,2025-04-02,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0940,Aarav Chatterjee,Bengaluru,Karnataka,Tier-1,South,2025-01-08,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0941,Amit Pandey,Coimbatore,Tamil Nadu,Tier-2,South,2025-08-31,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0942,Suresh Das,Jammu,Jammu & Kashmir,Tier-3,North,2025-06-09,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0943,Vikram Deshmukh,Udupi,Karnataka,Tier-3,South,2025-05-16,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0944,Suresh Iyer,Mumbai,Maharashtra,Tier-1,West,2025-07-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0945,Vivaan Menon,Warangal,Telangana,Tier-3,South,2025-01-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0946,Myra Verma,Lucknow,Uttar Pradesh,Tier-2,North,2025-01-24,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0947,Manoj Mehta,Bengaluru,Karnataka,Tier-1,South,2025-05-23,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0948,Anil Patil,Warangal,Telangana,Tier-3,South,2025-06-11,Retail Consumer,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-0949,Sanjay Mishra,Mumbai,Maharashtra,Tier-1,West,2025-07-21,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0950,Ayaan Shah,Warangal,Telangana,Tier-3,South,2025-07-06,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0951,Priya Pandey,Udupi,Karnataka,Tier-3,South,2024-10-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0952,Deepak Pandey,Kolkata,West Bengal,Tier-1,East,2025-05-06,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-0953,Reyansh Patil,Udupi,Karnataka,Tier-3,South,2025-08-31,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0954,Isha Mehta,Udupi,Karnataka,Tier-3,South,2024-10-17,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0955,Deepak Shah,Jaipur,Rajasthan,Tier-2,North,2024-11-14,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0956,Deepak Agrawal,Mumbai,Maharashtra,Tier-1,West,2025-01-30,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0957,Aadhya Menon,Darbhanga,Bihar,Tier-3,East,2025-07-29,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0958,Pooja Agrawal,Darbhanga,Bihar,Tier-3,East,2025-08-09,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0959,Sunita Iyer,Guwahati,Assam,Tier-2,North-East,2024-12-11,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0960,Aadhya Kumar,Kolkata,West Bengal,Tier-1,East,2024-10-31,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0961,Anil Rao,Coimbatore,Tamil Nadu,Tier-2,South,2025-02-21,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0962,Rekha Pandey,Bengaluru,Karnataka,Tier-1,South,2025-03-15,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0963,Myra Mehta,Guwahati,Assam,Tier-2,North-East,2025-02-14,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0964,Meena Bansal,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-18,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0965,Krishna Pillai,Warangal,Telangana,Tier-3,South,2025-04-29,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0966,Vihaan Shah,Udupi,Karnataka,Tier-3,South,2025-09-01,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-0967,Krishna Deshmukh,Udupi,Karnataka,Tier-3,South,2024-12-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0968,Isha Bhatia,Darbhanga,Bihar,Tier-3,East,2025-03-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0969,Isha Pillai,Udupi,Karnataka,Tier-3,South,2025-09-12,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0970,Neha Chatterjee,Bengaluru,Karnataka,Tier-1,South,2025-07-23,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0971,Riya Joshi,Patna,Bihar,Tier-2,East,2025-04-11,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0972,Deepak Gupta,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-17,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0973,Neha Mishra,Darbhanga,Bihar,Tier-3,East,2025-02-20,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0974,Priya Banerjee,Bhopal,Madhya Pradesh,Tier-2,Central,2025-03-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0975,Sunil Sharma,Udupi,Karnataka,Tier-3,South,2024-11-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0976,Kavita Joshi,Jammu,Jammu & Kashmir,Tier-3,North,2025-09-23,Micro-Enterprise / Kirana Reseller,NetBanking,Direct Hyperlocal Web
+CUST-0977,Pooja Agrawal,Mumbai,Maharashtra,Tier-1,West,2025-07-01,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0978,Neha Nair,Patna,Bihar,Tier-2,East,2025-01-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0979,Suresh Shah,Jaipur,Rajasthan,Tier-2,North,2025-02-23,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0980,Rohan Pandey,Guwahati,Assam,Tier-2,North-East,2024-12-06,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-0981,Anil Agrawal,Bhopal,Madhya Pradesh,Tier-2,Central,2025-03-25,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0982,Vihaan Verma,Mumbai,Maharashtra,Tier-1,West,2025-08-17,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-0983,Kavita Sharma,Mumbai,Maharashtra,Tier-1,West,2024-12-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0984,Deepak Banerjee,New Delhi,Delhi,Tier-1,North,2025-05-08,Micro-Enterprise / Kirana Reseller,NetBanking,ONDC Buyer App - Magicpin
+CUST-0985,Saanvi Deshmukh,Silchar,Assam,Tier-3,North-East,2024-12-07,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0986,Sneha Iyer,Udupi,Karnataka,Tier-3,South,2025-02-18,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-0987,Sai Joshi,Jaipur,Rajasthan,Tier-2,North,2025-02-06,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0988,Sai Rao,Jammu,Jammu & Kashmir,Tier-3,North,2025-08-29,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-0989,Ananya Verma,Patna,Bihar,Tier-2,East,2025-08-17,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-0990,Sneha Patil,Darbhanga,Bihar,Tier-3,East,2025-01-28,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-0991,Sunita Joshi,Mumbai,Maharashtra,Tier-1,West,2025-09-26,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-0992,Reyansh Sharma,Kolkata,West Bengal,Tier-1,East,2025-06-02,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0993,Arjun Bhatia,Guwahati,Assam,Tier-2,North-East,2025-01-24,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-0994,Geeta Kulkarni,Bhopal,Madhya Pradesh,Tier-2,Central,2024-10-05,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-0995,Aarav Deshmukh,Jaipur,Rajasthan,Tier-2,North,2024-12-01,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-0996,Sunita Deshmukh,Bengaluru,Karnataka,Tier-1,South,2025-06-02,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-0997,Arjun Patel,Patna,Bihar,Tier-2,East,2024-11-15,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-0998,Reyansh Malhotra,Jaipur,Rajasthan,Tier-2,North,2025-04-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-0999,Sneha Bhatia,Patna,Bihar,Tier-2,East,2024-12-08,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-1000,Ishaan Gupta,Coimbatore,Tamil Nadu,Tier-2,South,2025-07-16,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1001,Aarav Yadav,Jammu,Jammu & Kashmir,Tier-3,North,2024-12-24,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1002,Deepak Rao,Darbhanga,Bihar,Tier-3,East,2025-01-18,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1003,Ishaan Garg,Patna,Bihar,Tier-2,East,2025-08-12,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-1004,Deepak Agrawal,Kolkata,West Bengal,Tier-1,East,2024-11-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1005,Reyansh Bhatia,Warangal,Telangana,Tier-3,South,2024-12-03,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1006,Sunil Patil,Patna,Bihar,Tier-2,East,2025-03-29,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1007,Sunita Reddy,Warangal,Telangana,Tier-3,South,2024-12-11,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1008,Isha Shah,Jammu,Jammu & Kashmir,Tier-3,North,2024-11-13,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1009,Isha Pandey,Guwahati,Assam,Tier-2,North-East,2025-08-04,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-1010,Rekha Mehta,Warangal,Telangana,Tier-3,South,2025-09-19,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1011,Vivaan Agrawal,Udupi,Karnataka,Tier-3,South,2025-09-03,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1012,Sneha Nair,Coimbatore,Tamil Nadu,Tier-2,South,2025-08-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1013,Meena Nair,Darbhanga,Bihar,Tier-3,East,2025-04-19,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-1014,Myra Joshi,New Delhi,Delhi,Tier-1,North,2025-01-31,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-1015,Suresh Choudhury,Mumbai,Maharashtra,Tier-1,West,2025-02-01,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1016,Suresh Joshi,Guwahati,Assam,Tier-2,North-East,2024-11-06,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1017,Geeta Bansal,New Delhi,Delhi,Tier-1,North,2025-04-03,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1018,Rahul Bhatia,Patna,Bihar,Tier-2,East,2025-07-19,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1019,Vikram Rao,Coimbatore,Tamil Nadu,Tier-2,South,2025-09-15,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-1020,Diya Pillai,Bhopal,Madhya Pradesh,Tier-2,Central,2024-11-07,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-1021,Vivaan Singh,Mumbai,Maharashtra,Tier-1,West,2024-10-08,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1022,Navya Nair,New Delhi,Delhi,Tier-1,North,2024-10-31,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1023,Neha Mishra,Lucknow,Uttar Pradesh,Tier-2,North,2025-08-18,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-1024,Meena Pillai,Patna,Bihar,Tier-2,East,2025-05-05,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1025,Neha Gupta,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-02,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1026,Manoj Yadav,Bengaluru,Karnataka,Tier-1,South,2025-02-20,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-1027,Sai Mehta,Mumbai,Maharashtra,Tier-1,West,2025-06-19,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-1028,Aadhya Menon,Bengaluru,Karnataka,Tier-1,South,2025-07-02,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-1029,Rahul Choudhury,Guwahati,Assam,Tier-2,North-East,2025-08-21,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1030,Arjun Mehta,Darbhanga,Bihar,Tier-3,East,2025-05-12,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1031,Isha Verma,Kolkata,West Bengal,Tier-1,East,2024-11-14,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-1032,Sunita Malhotra,Bhopal,Madhya Pradesh,Tier-2,Central,2025-08-10,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1033,Rekha Verma,Lucknow,Uttar Pradesh,Tier-2,North,2025-09-07,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-1034,Diya Malhotra,New Delhi,Delhi,Tier-1,North,2025-09-28,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1035,Krishna Deshmukh,New Delhi,Delhi,Tier-1,North,2024-12-23,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-1036,Suresh Rao,Coimbatore,Tamil Nadu,Tier-2,South,2025-06-22,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1037,Navya Iyer,Jaipur,Rajasthan,Tier-2,North,2024-12-04,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1038,Riya Patil,Silchar,Assam,Tier-3,North-East,2024-11-30,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1039,Vivaan Reddy,Warangal,Telangana,Tier-3,South,2025-05-08,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-1040,Riya Mishra,Mumbai,Maharashtra,Tier-1,West,2025-02-12,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1041,Anil Joshi,Mumbai,Maharashtra,Tier-1,West,2025-06-12,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1042,Kavita Mishra,Jaipur,Rajasthan,Tier-2,North,2024-10-29,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1043,Suresh Agrawal,Guwahati,Assam,Tier-2,North-East,2024-12-25,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-1044,Priya Iyer,Lucknow,Uttar Pradesh,Tier-2,North,2024-11-22,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-1045,Anil Kulkarni,Darbhanga,Bihar,Tier-3,East,2024-11-29,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-1046,Pari Patil,Coimbatore,Tamil Nadu,Tier-2,South,2024-10-02,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1047,Aditya Agrawal,Udupi,Karnataka,Tier-3,South,2024-10-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1048,Isha Verma,Bhopal,Madhya Pradesh,Tier-2,Central,2025-04-05,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-1049,Amit Garg,Bengaluru,Karnataka,Tier-1,South,2024-12-31,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1050,Aditya Pandey,Warangal,Telangana,Tier-3,South,2025-09-01,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1051,Vikram Patel,Jaipur,Rajasthan,Tier-2,North,2025-02-05,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1052,Vikram Garg,Darbhanga,Bihar,Tier-3,East,2025-03-13,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1053,Riya Kumar,Mumbai,Maharashtra,Tier-1,West,2025-07-20,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Mystore
+CUST-1054,Priya Malhotra,Coimbatore,Tamil Nadu,Tier-2,South,2025-09-10,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1055,Vihaan Iyer,Kolkata,West Bengal,Tier-1,East,2025-06-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1056,Aditya Choudhury,Mumbai,Maharashtra,Tier-1,West,2025-05-27,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-1057,Myra Pillai,Udupi,Karnataka,Tier-3,South,2025-03-09,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1058,Rahul Gupta,Coimbatore,Tamil Nadu,Tier-2,South,2025-05-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1059,Aarav Rao,Kolkata,West Bengal,Tier-1,East,2025-02-27,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1060,Anil Menon,Lucknow,Uttar Pradesh,Tier-2,North,2025-08-15,Micro-Enterprise / Kirana Reseller,NetBanking,ONDC Buyer App - Magicpin
+CUST-1061,Isha Banerjee,Jaipur,Rajasthan,Tier-2,North,2025-07-30,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1062,Suresh Pillai,Warangal,Telangana,Tier-3,South,2025-01-09,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1063,Manoj Pillai,Warangal,Telangana,Tier-3,South,2025-02-03,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1064,Ishaan Sharma,Silchar,Assam,Tier-3,North-East,2025-04-28,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-1065,Vivaan Patel,Coimbatore,Tamil Nadu,Tier-2,South,2025-03-27,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-1066,Aarav Reddy,New Delhi,Delhi,Tier-1,North,2025-09-02,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-1067,Amit Agrawal,Darbhanga,Bihar,Tier-3,East,2025-03-07,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1068,Reyansh Nair,Coimbatore,Tamil Nadu,Tier-2,South,2025-01-30,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1069,Vikram Chatterjee,New Delhi,Delhi,Tier-1,North,2024-12-12,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-1070,Riya Gupta,New Delhi,Delhi,Tier-1,North,2025-01-27,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1071,Geeta Das,Darbhanga,Bihar,Tier-3,East,2025-04-09,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1072,Kavita Patil,Mumbai,Maharashtra,Tier-1,West,2025-07-25,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1073,Reyansh Mishra,Bengaluru,Karnataka,Tier-1,South,2025-08-23,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1074,Neha Gupta,Guwahati,Assam,Tier-2,North-East,2025-07-18,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1075,Vihaan Das,Jammu,Jammu & Kashmir,Tier-3,North,2024-12-06,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1076,Isha Mehta,Lucknow,Uttar Pradesh,Tier-2,North,2025-03-11,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-1077,Neha Deshmukh,Udupi,Karnataka,Tier-3,South,2025-03-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1078,Rahul Banerjee,Lucknow,Uttar Pradesh,Tier-2,North,2025-01-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1079,Arjun Nair,Bengaluru,Karnataka,Tier-1,South,2025-07-27,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1080,Reyansh Bhatia,Mumbai,Maharashtra,Tier-1,West,2024-12-24,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-1081,Deepak Banerjee,Jaipur,Rajasthan,Tier-2,North,2025-04-27,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1082,Ayaan Pandey,Jaipur,Rajasthan,Tier-2,North,2025-01-15,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1083,Deepak Mehta,Bhopal,Madhya Pradesh,Tier-2,Central,2025-02-13,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1084,Ayaan Gupta,Bengaluru,Karnataka,Tier-1,South,2025-09-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1085,Sneha Kumar,Darbhanga,Bihar,Tier-3,East,2025-09-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1086,Rekha Verma,Kolkata,West Bengal,Tier-1,East,2025-03-17,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1087,Ishaan Gupta,Darbhanga,Bihar,Tier-3,East,2025-02-05,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-1088,Pooja Choudhury,Coimbatore,Tamil Nadu,Tier-2,South,2024-10-26,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1089,Sneha Shah,Udupi,Karnataka,Tier-3,South,2024-12-29,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1090,Vivaan Choudhury,Udupi,Karnataka,Tier-3,South,2025-05-20,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1091,Sanjay Patil,Coimbatore,Tamil Nadu,Tier-2,South,2025-02-05,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1092,Reyansh Banerjee,Mumbai,Maharashtra,Tier-1,West,2024-12-11,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-1093,Ayaan Sharma,New Delhi,Delhi,Tier-1,North,2025-01-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1094,Krishna Nair,Udupi,Karnataka,Tier-3,South,2025-04-24,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1095,Priya Kulkarni,Jammu,Jammu & Kashmir,Tier-3,North,2025-08-27,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-1096,Sai Singh,Guwahati,Assam,Tier-2,North-East,2025-02-10,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1097,Arjun Sharma,Mumbai,Maharashtra,Tier-1,West,2025-01-10,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Paytm
+CUST-1098,Deepak Menon,Bengaluru,Karnataka,Tier-1,South,2024-11-17,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-1099,Rohan Malhotra,New Delhi,Delhi,Tier-1,North,2025-05-25,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-1100,Vihaan Iyer,Silchar,Assam,Tier-3,North-East,2025-07-21,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1101,Sunita Kumar,Darbhanga,Bihar,Tier-3,East,2025-04-21,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-1102,Suresh Sharma,Patna,Bihar,Tier-2,East,2025-09-15,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1103,Sunita Iyer,Jaipur,Rajasthan,Tier-2,North,2025-01-18,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1104,Diya Shah,Lucknow,Uttar Pradesh,Tier-2,North,2025-05-17,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1105,Ishaan Verma,Guwahati,Assam,Tier-2,North-East,2025-08-14,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1106,Anita Patel,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-01,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1107,Suresh Das,Silchar,Assam,Tier-3,North-East,2025-07-09,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1108,Rajesh Verma,Mumbai,Maharashtra,Tier-1,West,2025-02-21,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1109,Amit Bhatia,Patna,Bihar,Tier-2,East,2025-01-11,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-1110,Geeta Patel,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-06,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1111,Vivaan Choudhury,Warangal,Telangana,Tier-3,South,2025-04-02,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1112,Rajesh Pandey,Warangal,Telangana,Tier-3,South,2025-06-06,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-1113,Pooja Garg,Guwahati,Assam,Tier-2,North-East,2025-06-15,Micro-Enterprise / Kirana Reseller,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1114,Rahul Choudhury,Lucknow,Uttar Pradesh,Tier-2,North,2025-01-01,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-1115,Vivaan Reddy,Guwahati,Assam,Tier-2,North-East,2025-01-21,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1116,Vivaan Bansal,Warangal,Telangana,Tier-3,South,2025-02-21,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1117,Vihaan Menon,Bhopal,Madhya Pradesh,Tier-2,Central,2025-06-29,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1118,Pooja Pillai,Guwahati,Assam,Tier-2,North-East,2025-01-28,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-1119,Ananya Malhotra,Kolkata,West Bengal,Tier-1,East,2025-09-02,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1120,Isha Shah,Coimbatore,Tamil Nadu,Tier-2,South,2024-10-29,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-1121,Pari Singh,Udupi,Karnataka,Tier-3,South,2025-04-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1122,Pooja Garg,Udupi,Karnataka,Tier-3,South,2024-12-28,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-1123,Diya Patel,Guwahati,Assam,Tier-2,North-East,2025-03-12,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1124,Pooja Garg,Guwahati,Assam,Tier-2,North-East,2024-10-15,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1125,Pooja Singh,Guwahati,Assam,Tier-2,North-East,2024-12-12,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-1126,Anil Nair,Udupi,Karnataka,Tier-3,South,2025-06-10,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1127,Manoj Mehta,Bengaluru,Karnataka,Tier-1,South,2025-06-09,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1128,Aditya Gupta,New Delhi,Delhi,Tier-1,North,2025-01-28,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1129,Rekha Patel,New Delhi,Delhi,Tier-1,North,2025-06-27,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-1130,Rajesh Sharma,Jaipur,Rajasthan,Tier-2,North,2025-08-11,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1131,Saanvi Menon,Bengaluru,Karnataka,Tier-1,South,2025-03-24,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-1132,Diya Garg,Warangal,Telangana,Tier-3,South,2025-03-15,Retail Consumer,Cash on Delivery (COD),Direct Hyperlocal Web
+CUST-1133,Vihaan Sharma,Bengaluru,Karnataka,Tier-1,South,2025-07-28,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-1134,Ishaan Pillai,Mumbai,Maharashtra,Tier-1,West,2025-06-27,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1135,Priya Gupta,Jaipur,Rajasthan,Tier-2,North,2025-09-26,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Magicpin
+CUST-1136,Neha Singh,Mumbai,Maharashtra,Tier-1,West,2025-03-22,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-1137,Sneha Reddy,Bengaluru,Karnataka,Tier-1,South,2024-12-20,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1138,Sunita Menon,Jammu,Jammu & Kashmir,Tier-3,North,2025-06-07,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1139,Rahul Iyer,Darbhanga,Bihar,Tier-3,East,2025-07-15,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1140,Anita Menon,Jaipur,Rajasthan,Tier-2,North,2025-01-23,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1141,Sunil Kumar,Bengaluru,Karnataka,Tier-1,South,2025-04-12,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1142,Sneha Patil,Darbhanga,Bihar,Tier-3,East,2025-02-28,Retail Consumer,NetBanking,ONDC Buyer App - Magicpin
+CUST-1143,Krishna Iyer,Darbhanga,Bihar,Tier-3,East,2024-10-01,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1144,Anil Choudhury,Udupi,Karnataka,Tier-3,South,2025-07-18,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-1145,Aditya Iyer,Guwahati,Assam,Tier-2,North-East,2025-03-12,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1146,Anita Patel,Jammu,Jammu & Kashmir,Tier-3,North,2025-07-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1147,Reyansh Garg,Bhopal,Madhya Pradesh,Tier-2,Central,2024-12-12,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-1148,Rohan Patil,Mumbai,Maharashtra,Tier-1,West,2025-01-30,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-1149,Pooja Reddy,Bengaluru,Karnataka,Tier-1,South,2025-08-22,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Mystore
+CUST-1150,Sai Kumar,Darbhanga,Bihar,Tier-3,East,2025-09-09,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1151,Rohan Banerjee,New Delhi,Delhi,Tier-1,North,2025-02-13,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1152,Aadhya Patel,Darbhanga,Bihar,Tier-3,East,2024-11-04,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-1153,Pooja Shah,Warangal,Telangana,Tier-3,South,2024-11-25,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1154,Aarav Verma,Patna,Bihar,Tier-2,East,2025-05-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1155,Vikram Iyer,Silchar,Assam,Tier-3,North-East,2025-04-30,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1156,Suresh Bansal,Patna,Bihar,Tier-2,East,2025-03-29,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1157,Manoj Choudhury,Mumbai,Maharashtra,Tier-1,West,2025-06-03,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1158,Anil Joshi,Warangal,Telangana,Tier-3,South,2025-09-17,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1159,Pari Iyer,Bhopal,Madhya Pradesh,Tier-2,Central,2024-11-07,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-1160,Aditya Mehta,New Delhi,Delhi,Tier-1,North,2025-03-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1161,Navya Malhotra,Mumbai,Maharashtra,Tier-1,West,2025-03-25,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1162,Ananya Bansal,Patna,Bihar,Tier-2,East,2024-12-22,Micro-Enterprise / Kirana Reseller,UPI,ONDC Buyer App - Magicpin
+CUST-1163,Arjun Pandey,Silchar,Assam,Tier-3,North-East,2024-11-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1164,Rohan Yadav,Guwahati,Assam,Tier-2,North-East,2025-06-05,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1165,Vivaan Das,Jammu,Jammu & Kashmir,Tier-3,North,2024-12-24,Micro-Enterprise / Kirana Reseller,Cash on Delivery (COD),ONDC Buyer App - Magicpin
+CUST-1166,Rekha Bansal,Patna,Bihar,Tier-2,East,2024-12-20,Retail Consumer,NetBanking,ONDC Buyer App - Mystore
+CUST-1167,Vihaan Malhotra,Jaipur,Rajasthan,Tier-2,North,2025-01-14,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1168,Saanvi Das,Darbhanga,Bihar,Tier-3,East,2025-07-11,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-1169,Manoj Shah,Jammu,Jammu & Kashmir,Tier-3,North,2025-02-22,Micro-Enterprise / Kirana Reseller,UPI,Direct Hyperlocal Web
+CUST-1170,Sneha Patel,Mumbai,Maharashtra,Tier-1,West,2024-10-26,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-1171,Neha Singh,Coimbatore,Tamil Nadu,Tier-2,South,2025-06-09,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-1172,Ishaan Verma,Jaipur,Rajasthan,Tier-2,North,2024-10-02,Retail Consumer,NetBanking,Direct Hyperlocal Web
+CUST-1173,Sunita Gupta,Lucknow,Uttar Pradesh,Tier-2,North,2025-09-04,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1174,Rekha Chatterjee,Kolkata,West Bengal,Tier-1,East,2024-11-19,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1175,Vivaan Nair,Bengaluru,Karnataka,Tier-1,South,2025-08-23,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1176,Myra Gupta,Bhopal,Madhya Pradesh,Tier-2,Central,2024-11-29,Retail Consumer,Cash on Delivery (COD),ONDC Buyer App - Mystore
+CUST-1177,Sneha Menon,Patna,Bihar,Tier-2,East,2025-05-30,Healthcare Clinic / Dispensary,UPI,ONDC Buyer App - Paytm
+CUST-1178,Suresh Bansal,Jammu,Jammu & Kashmir,Tier-3,North,2025-02-13,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1179,Sai Joshi,Coimbatore,Tamil Nadu,Tier-2,South,2025-04-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1180,Diya Rao,Silchar,Assam,Tier-3,North-East,2025-04-14,Retail Consumer,RuPay Debit,ONDC Buyer App - Paytm
+CUST-1181,Priya Iyer,Bhopal,Madhya Pradesh,Tier-2,Central,2024-10-23,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-1182,Navya Banerjee,Bhopal,Madhya Pradesh,Tier-2,Central,2025-02-12,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-1183,Pari Kumar,Lucknow,Uttar Pradesh,Tier-2,North,2025-07-16,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1184,Vihaan Bhatia,Warangal,Telangana,Tier-3,South,2025-09-22,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-1185,Reyansh Gupta,Jammu,Jammu & Kashmir,Tier-3,North,2025-03-26,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1186,Manoj Das,Warangal,Telangana,Tier-3,South,2025-07-29,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1187,Pari Pandey,New Delhi,Delhi,Tier-1,North,2025-04-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1188,Geeta Das,Coimbatore,Tamil Nadu,Tier-2,South,2025-09-17,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1189,Rajesh Singh,Silchar,Assam,Tier-3,North-East,2025-01-29,Retail Consumer,RuPay Debit,ONDC Buyer App - Magicpin
+CUST-1190,Rajesh Mehta,Mumbai,Maharashtra,Tier-1,West,2025-04-21,Retail Consumer,RuPay Debit,ONDC Buyer App - Mystore
+CUST-1191,Aditya Mishra,Guwahati,Assam,Tier-2,North-East,2025-06-22,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1192,Anil Kulkarni,Guwahati,Assam,Tier-2,North-East,2024-12-15,Healthcare Clinic / Dispensary,Cash on Delivery (COD),ONDC Buyer App - Paytm
+CUST-1193,Ayaan Pillai,Bhopal,Madhya Pradesh,Tier-2,Central,2024-12-28,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1194,Ananya Nair,Warangal,Telangana,Tier-3,South,2025-01-07,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1195,Krishna Verma,Patna,Bihar,Tier-2,East,2024-11-10,Retail Consumer,NetBanking,ONDC Buyer App - Paytm
+CUST-1196,Sunita Nair,Udupi,Karnataka,Tier-3,South,2025-08-18,Retail Consumer,UPI,ONDC Buyer App - Mystore
+CUST-1197,Ishaan Kumar,Guwahati,Assam,Tier-2,North-East,2025-02-10,Retail Consumer,UPI,Direct Hyperlocal Web
+CUST-1198,Rahul Garg,Darbhanga,Bihar,Tier-3,East,2024-11-04,Retail Consumer,UPI,ONDC Buyer App - Magicpin
+CUST-1199,Sai Choudhury,Coimbatore,Tamil Nadu,Tier-2,South,2025-04-22,Retail Consumer,UPI,ONDC Buyer App - Paytm
+CUST-1200,Sanjay Reddy,Udupi,Karnataka,Tier-3,South,2025-02-19,Retail Consumer,UPI,ONDC Buyer App - Magicpin

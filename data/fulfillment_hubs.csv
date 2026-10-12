@@ -1,0 +1,18 @@
+hub_id,hub_name,hub_type,city,state,tier,zone,storage_capacity_sqft,operating_cost_per_sqft_inr
+HUB-DEL-CWH,Central Warehouse North (NCR),Central Warehouse,Gurugram,Haryana,Tier-1,North,50000,42.5
+HUB-MUM-CWH,Central Warehouse West (BOM),Central Warehouse,Bhiwandi,Maharashtra,Tier-1,West,55000,48.0
+HUB-BLR-CWH,Central Warehouse South (BLR),Central Warehouse,Hosur,Karnataka,Tier-1,South,48000,44.0
+HUB-KOL-RDH,Regional Distribution Hub East,Regional Hub,Kolkata,West Bengal,Tier-1,East,25000,32.0
+HUB-LKO-RDH,Regional Distribution Hub Awadh,Regional Hub,Lucknow,Uttar Pradesh,Tier-2,North,20000,26.5
+HUB-JAI-RDH,Regional Distribution Hub Marwar,Regional Hub,Jaipur,Rajasthan,Tier-2,North,18000,24.0
+HUB-IXJ-RDH,Regional Distribution Hub Northern Front,Regional Hub,Jammu,Jammu & Kashmir,Tier-3,North,12000,19.5
+HUB-PAT-RDH,Regional Distribution Hub Magadh,Regional Hub,Patna,Bihar,Tier-2,East,16000,22.0
+HUB-GAU-RDH,Regional Distribution Hub North-East,Regional Hub,Guwahati,Assam,Tier-2,North-East,15000,25.0
+HUB-BHO-RDH,Regional Distribution Hub Malwa,Regional Hub,Bhopal,Madhya Pradesh,Tier-2,Central,18000,21.0
+HUB-COI-RDH,Regional Distribution Hub Kongu,Regional Hub,Coimbatore,Tamil Nadu,Tier-2,South,16000,23.5
+HUB-DEL-MFC,Urban Dark Store ONDC South Delhi,Micro-Fulfillment Center,New Delhi,Delhi,Tier-1,North,6000,65.0
+HUB-MUM-MFC,Urban Dark Store ONDC Andheri,Micro-Fulfillment Center,Mumbai,Maharashtra,Tier-1,West,5500,78.0
+HUB-BLR-MFC,Urban Dark Store ONDC Koramangala,Micro-Fulfillment Center,Bengaluru,Karnataka,Tier-1,South,6500,62.0
+HUB-IXJ-KIR,Hyperlocal Kirana SNP Jammu Tawi,Kirana Network Participant,Jammu,Jammu & Kashmir,Tier-3,North,1500,28.0
+HUB-DAR-KIR,Hyperlocal Kirana SNP Darbhanga Bazaar,Kirana Network Participant,Darbhanga,Bihar,Tier-3,East,1400,18.0
+HUB-WAR-KIR,Hyperlocal Kirana SNP Warangal Town,Kirana Network Participant,Warangal,Telangana,Tier-3,South,1600,20.0

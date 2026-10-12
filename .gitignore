@@ -1,0 +1,25 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Intermediate processing files & scratchpads
+artifacts/file_generation/*/intermediate/
+artifacts/planner/
+*.tmp
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Database binaries (data/ CSV files are tracked instead)
+*.db
+*.sqlite3
